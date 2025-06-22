@@ -16,8 +16,8 @@ This pipeline was **methodologically similar** to the author’s previous work o
 
 This repository includes a structured dataset of model-inferred sentence-level associations between named entities and narrative categories. These associations were derived using a two-step process: zero-shot prediction using `facebook/bart-large-mnli`, followed by a semantic validation and filtering stage using `google/flan-t5-large`.
 
-Let $ A = \{a_1, a_2, \dots, a_n\} $ denote the set of news articles. Each article $a_i \in A$ was split into sentences 
-$ S_i = \{s_{i1}, s_{i2}, \dots, s_{im}\} $ using the `spaCy` dependency parser.
+Let $A = \{a_1, a_2, \dots, a_n\}$ denote the set of news articles. Each article $a_i \in A$ was split into sentences 
+$S_i = \{s_{i1}, s_{i2}, \dots, s_{im}\}$ using the `spaCy` dependency parser.
 
 For each sentence $s_{ij}$, named entity recognition (NER) was applied to extract a set of named entities  
 $E_{ij} = \{e_1, e_2, \dots, e_k\}$, where each $e_k$ was tagged as a `PERSON`, `ORG`, or `GPE`.
@@ -31,31 +31,25 @@ To identify possible narrative cues in each sentence, a set of simplified, gener
 
 Each sentence was passed to `facebook/bart-large-mnli` for zero-shot classification. For sentence $s_{ij}$, the model returned:
 
-$
-P_{ij} = \{p(f_1|s_{ij}), p(f_2|s_{ij}), \dots, p(f_5|s_{ij})\}
-$
+$P_{ij} = \{p(f_1|s_{ij}), p(f_2|s_{ij}), \dots, p(f_5|s_{ij})\}$
 
 All categories with a model confidence of at least 0.7 were retained:
 
-$
-F_{ij}^* = \{f \in F \mid p(f|s_{ij}) \geq 0.7\}
-$
+$F_{ij}^* = \{f \in F \mid p(f|s_{ij}) \geq 0.7\}$
 
 For each entity  $e_k \in E_{ij}$ and each retained label $f \in F_{ij}^*$, the tuple  
 $(a_i, e_k, s_{ij}, f, p(f|s_{ij}))$ was stored.
 
 This generated a set of observations capturing how the model paired entities with inferred narrative categories:
 
-$
-\mathcal{R} = \{(a_i, e_k, s_{ij}, f, p(f|s_{ij}))\}
-$
+$\mathcal{R} = \{(a_i, e_k, s_{ij}, f, p(f|s_{ij}))\}$
 
 ---
 
 ## Validation and Filtering
 
 To reduce noise and improve interpretability, a multi-stage filter was applied using the `google/flan-t5-large` model. Let  
-$ D = \{(s_i, e_i, f_i)\}_{i=1}^N $ be the set of candidate outputs.
+$D = \{(s_i, e_i, f_i)\}_{i=1}^N$ be the set of candidate outputs.
 
 ### 1. Semantic Relevance Check
 
@@ -65,9 +59,7 @@ Prompted the model with:
 
 Only pairs with affirmative responses were retained:
 
-$
-D_1 = \{(s_i, e_i, f_i) \in D \mid \text{LLM}(P_{\text{verify}}(s_i, e_i, f_i)) = \text{Yes}\}
-$
+$D_1 = \{(s_i, e_i, f_i) \in D \mid \text{LLM}(P_{\text{verify}}(s_i, e_i, f_i)) = \text{Yes}\}$
 
 ---
 
@@ -79,9 +71,7 @@ For label types prone to overuse (e.g., "Humanitarian"), a contradiction check w
 
 Negative answers were retained:
 
-$
-D_2 = D_1 \setminus \{(s_i, e_i, f_i) \mid f_i = \text{Humanitarian} \land \text{LLM}(P_{\text{contradict}}(s_i)) = \text{Yes}\}
-$
+$D_2 = D_1 \setminus \{(s_i, e_i, f_i) \mid f_i = \text{Humanitarian} \land \text{LLM}(P_{\text{contradict}}(s_i)) = \text{Yes}\}$
 
 ---
 
@@ -91,9 +81,7 @@ For categories like "Military" and "Political", prompts asked:
 
 > "Is entity Y involved in an action that reflects the category X?"
 
-$
-D_3 = \{(s_i, e_i, f_i) \in D_2 \mid f_i \notin \{f\} \lor \text{LLM}(P_f(s_i, e_i)) = \text{Yes}\}
-$
+$D_3 = \{(s_i, e_i, f_i) \in D_2 \mid f_i \notin \{f\} \lor \text{LLM}(P_f(s_i, e_i)) = \text{Yes}\}$
 
 ---
 
@@ -103,9 +91,7 @@ To discard metadata, headlines, or low-information content, a prompt asked:
 
 > "Is this sentence mostly non-substantive (e.g., naming people, metadata)?"
 
-$
-D' = \{(s_i, e_i, f_i) \in D_3 \mid \text{LLM}(P_{\text{noise}}(s_i)) = \text{No}\}
-$
+$D' = \{(s_i, e_i, f_i) \in D_3 \mid \text{LLM}(P_{\text{noise}}(s_i)) = \text{No}\}$
 
 This yielded the final set of validated associations.
 
