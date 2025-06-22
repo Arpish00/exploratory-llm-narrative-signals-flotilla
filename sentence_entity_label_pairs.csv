@@ -1,0 +1,1088 @@
+article_id,entity,sentence,label,confidence
+0,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+0,FFC,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+0,The Armed Forces of Malta,The Armed Forces of Malta confirmed there was a fire on a ship that was later extinguished.,Military,0.9668056964874268
+0,Malta,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+0,FFC,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+0,the Maritime Squadron of the Armed Forces of Malta,"When asked by CNN for comment, the Maritime Squadron of the Armed Forces of Malta said the vessel and the crew are secure, and that the ship remains outside territorial waters and is being monitored by authorities.",Security,0.955386519432068
+0,Thunberg,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+0,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+0,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+0,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+0,Wright,"“What is certain is that we human rights activists will continue to do everything in our power to do our part.”
+    
+
+            Speaking to CNN from Malta, Wright said activists “were ready to get on the boat.",Political,0.76259446144104
+0,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition describes itself on its website as an international network of pro-Palestinian activists working to end Israel’s blockade of Gaza and deliver humanitarian aid to the besieged enclave by taking direct, non-violent action.",Humanitarian,0.8058450222015381
+0,Gaza,"Related article
+Israeli military boards Gaza-bound aid ships
+
+
+            Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Political,0.7591944932937622
+0,Gaza,"Related article
+Israeli military boards Gaza-bound aid ships
+
+
+            Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Political,0.7591944932937622
+0,Israel,"Related article
+Israeli military boards Gaza-bound aid ships
+
+
+            Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Military,0.8899490833282471
+0,Israel,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+0,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Humanitarian,0.8445852994918823
+0,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+0,the Occupied Palestinian Territories,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+0,Gaza,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+0,Israel,"The group pointed the finger of blame at Israel, without providing evidence.",Political,0.8781840205192566
+0,An Israeli Air Force C-130 Hercules,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+0,Israel,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+0,Trevor Ball,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+0,US Army,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+1,The Freedom Flotilla Coalition,"Updated on:  May 2, 2025 / 5:47 AM EDT
+          / CBS News
+        
+The Freedom Flotilla Coalition campaign group said Friday that one of its ships bound for the Gaza Strip, carrying aid and dozens of activists, was attacked in international waters by drones in the middle of the night off Malta, causing serious damage to the vessel.",Humanitarian,0.7102034091949463
+1,the Israel Defense Forces,CBS News asked the Israel Defense Forces on Friday if it carried out any operation involving the Freedom Flotilla ship near Malta.,Military,0.8884780406951904
+1,the Israel Defense Forces,CBS News asked the Israel Defense Forces on Friday if it carried out any operation involving the Freedom Flotilla ship near Malta.,Security,0.7404794692993164
+1,Gaza,"Francesca Albanese, the United Nations Special Rapporteur on the Palestinian territories, said in a social media post on Friday that she had ""received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.",Humanitarian,0.7985827922821045
+1,An Armed Forces of Malta,"An Armed Forces of Malta patrol vessel was also dispatched to provide further assistance.""
+""By 2:13 a.m., all crew were confirmed safe but refused to board the tug ...",Military,0.8762048482894897
+2,FFC,"The FFC, formed by peace activists from several countries last year, uses a converted trawler to try to defy Israel’s blockade on Gaza.",Political,0.9103516340255736
+2,Gaza,"The FFC, formed by peace activists from several countries last year, uses a converted trawler to try to defy Israel’s blockade on Gaza.",Political,0.9103516340255736
+2,The International Committee of the Red Cross,The International Committee of the Red Cross (ICRC) said in a report released on Friday that the humanitarian response in Gaza is “on the verge of total collapse”.,Humanitarian,0.9177701473236084
+2,ICRC,The International Committee of the Red Cross (ICRC) said in a report released on Friday that the humanitarian response in Gaza is “on the verge of total collapse”.,Humanitarian,0.9177701473236084
+2,Gaza,The International Committee of the Red Cross (ICRC) said in a report released on Friday that the humanitarian response in Gaza is “on the verge of total collapse”.,Humanitarian,0.9177701473236084
+2,Gaza,"Without an immediate resumption of aid deliveries, the will not have access to the food, medicines, and life-saving supplies needed to sustain many of its programmes in Gaza,” the ICRC said.",Humanitarian,0.9094037413597108
+2,ICRC,"Without an immediate resumption of aid deliveries, the will not have access to the food, medicines, and life-saving supplies needed to sustain many of its programmes in Gaza,” the ICRC said.",Humanitarian,0.9094037413597108
+3,Freedom Flotilla,"Freedom Flotilla in talks with Malta to repair Gaza aid ship Felix Tamsut with Reuters, AFP 05/04/2025May 4, 2025The Freedom Flotilla Coalition said it would like the vessel to be repaired on the island before continuing on to its original destination: Gaza.",Humanitarian,0.9605449438095092
+3,Felix Tamsut,"Freedom Flotilla in talks with Malta to repair Gaza aid ship Felix Tamsut with Reuters, AFP 05/04/2025May 4, 2025The Freedom Flotilla Coalition said it would like the vessel to be repaired on the island before continuing on to its original destination: Gaza.",Humanitarian,0.9605449438095092
+3,Israel,The group has blamed Israel for the drone attack on the ship.,Political,0.7459924221038818
+3,the Freedom Flotilla Coalition,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Humanitarian,0.8823496699333191
+3,the Freedom Flotilla Coalition,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Political,0.7672895193099976
+3,Conscience,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Humanitarian,0.8823496699333191
+3,Conscience,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Political,0.7672895193099976
+4,Israel,The group has blamed Israel for the drone attack on the ship.,Political,0.7459924221038818
+4,the Freedom Flotilla Coalition,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Humanitarian,0.8823496699333191
+4,the Freedom Flotilla Coalition,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Political,0.7672895193099976
+4,Conscience,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Humanitarian,0.8823496699333191
+4,Conscience,"Operated by the Freedom Flotilla Coalition, the ship Conscience had been waiting for some 30 peace activists from around the world before setting sail to Gaza carrying food and medicines.",Political,0.7672895193099976
+4,JavaScript,"To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+The Freedom Flotilla Coalition, a group of nongovernmental organizations, blamed Israel for the attack.",Political,0.9551979899406432
+4,HTML5,"To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+The Freedom Flotilla Coalition, a group of nongovernmental organizations, blamed Israel for the attack.",Political,0.9551979899406432
+4,The Freedom Flotilla Coalition,"To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+The Freedom Flotilla Coalition, a group of nongovernmental organizations, blamed Israel for the attack.",Political,0.9551979899406432
+5,Freedom Flotilla Coalition,"Freedom Flotilla Coalition, the aid group running the mission, blamed Israel for the attack but did not provide evidence for that allegation.",Humanitarian,0.8283822536468506
+5,Freedom Flotilla Coalition,"Freedom Flotilla Coalition, the aid group running the mission, blamed Israel for the attack but did not provide evidence for that allegation.",Political,0.7088813185691833
+5,Israel,"Freedom Flotilla Coalition, the aid group running the mission, blamed Israel for the attack but did not provide evidence for that allegation.",Political,0.7088813185691833
+5,the United Nations,"Francesca Albanese, the United Nations special rapporteur for the occupied Palestinian territories, said in a post on X on Friday that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7527068853378296
+5,Gaza,"Francesca Albanese, the United Nations special rapporteur for the occupied Palestinian territories, said in a post on X on Friday that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7527068853378296
+5,Gaza,International aid groups and nongovernmental organizations have said that the humanitarian crisis in Gaza has reached its worst level in 18 months and that aid systems are on the verge of collapse.,Humanitarian,0.8446440696716309
+5,NBC News,"In video footage by NBC News’ crew on the ground in the Mawasi neighborhood in Gaza's southern city of Khan Younis, children stood in a narrow alley holding empty pots at the Rafah Charitable Kitchen — the only soup kitchen serving the displaced in the area.",Humanitarian,0.8382501006126404
+5,Gaza,"In video footage by NBC News’ crew on the ground in the Mawasi neighborhood in Gaza's southern city of Khan Younis, children stood in a narrow alley holding empty pots at the Rafah Charitable Kitchen — the only soup kitchen serving the displaced in the area.",Humanitarian,0.8382501006126404
+6,Freedom Flotilla Coalition,"A ship carrying humanitarian aid and activists heading for Gaza was attacked by Israeli drones while in international waters off Malta early Friday, said Freedom Flotilla Coalition, an international NGO.",Humanitarian,0.978401780128479
+6,Israel,"They are on what it called a ""mission to challenge Israel's illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid"".",Political,0.8123806118965149
+6,Gaza,"They are on what it called a ""mission to challenge Israel's illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid"".",Political,0.8123806118965149
+6,Gaza,"Everyone aboard the aid flotilla for Gaza that was hit by drones are ""confirmed safe"", the Maltese government said in a statement on Friday.",Humanitarian,0.9653245806694032
+6,An Armed Forces of Malta,"An Armed Forces of Malta patrol vessel was also dispatched to provide further assistance,"" the government said.",Military,0.9362121820449828
+6,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Military,0.8555483818054199
+6,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Political,0.7889900803565979
+6,Gaza,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Political,0.7889900803565979
+6,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Military,0.8555483818054199
+6,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Political,0.7889900803565979
+7,Gaza,"Organisers told the BBC that the group had been ""operating in total secrecy with a complete media blackout"" to prevent ""sabotage"" as they prepared to sail towards Gaza - where about two million Palestinians have been under a complete blockade by the Israeli military for two months.",Political,0.7780613303184509
+7,Greta Thunberg,Climate activist Greta Thunberg was among those who had planned to board the ship once it departed for Gaza on Friday.,Political,0.8371273875236511
+7,Gaza,Climate activist Greta Thunberg was among those who had planned to board the ship once it departed for Gaza on Friday.,Political,0.8371273875236511
+7,Gaza,"Speaking to journalists in Valetta, she said: ""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza.""",Humanitarian,0.925641655921936
+7,Gaza,"Speaking to journalists in Valetta, she said: ""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza.""",Humanitarian,0.925641655921936
+7,Israel,"The coalition is campaigning to end Israel's blockade of Gaza, which is also facing mounting international condemnation.",Political,0.8719866275787354
+7,Gaza,"The coalition is campaigning to end Israel's blockade of Gaza, which is also facing mounting international condemnation.",Political,0.8719866275787354
+7,Israel,"Two months ago, Israel shut all crossings to Gaza – preventing all goods, including food, fuel and medicines from entering - and later resumed its military offensive, ending a two-month ceasefire with Hamas.",Political,0.8468316197395325
+7,Israel,"Two months ago, Israel shut all crossings to Gaza – preventing all goods, including food, fuel and medicines from entering - and later resumed its military offensive, ending a two-month ceasefire with Hamas.",Military,0.8330111503601074
+7,Gaza,"Two months ago, Israel shut all crossings to Gaza – preventing all goods, including food, fuel and medicines from entering - and later resumed its military offensive, ending a two-month ceasefire with Hamas.",Political,0.8468316197395325
+7,the World Food Programme,Some humanitarian organisations such as the World Food Programme say they have already run out of food while community kitchens say their stocks are dwindling fast.,Humanitarian,0.9172984957695008
+7,the Red Cross,"On Friday the Red Cross said the humanitarian response in Gaza was on the verge of ""total collapse"".",Humanitarian,0.9315637946128844
+7,Gaza,"On Friday the Red Cross said the humanitarian response in Gaza was on the verge of ""total collapse"".",Humanitarian,0.9315637946128844
+8,Gaza,"Gaza flotilla organization accuses Malta of barring activists from drone-hit ship
+Freedom Flotilla Coalition says Maltese authorities preventing vessel from docking for repairs, getting aid for passengers; Malta’s PM says country’s safety must be ensured
+By Reuters and ToI Staff
+4 May 2025, 4:29 pm
+Share
+ 4
+The Conscience, after a drone struck the vessel carrying aid to Gaza off the coast of Malta, May 2, 2025.",Political,0.8354930281639099
+8,Malta,"Gaza flotilla organization accuses Malta of barring activists from drone-hit ship
+Freedom Flotilla Coalition says Maltese authorities preventing vessel from docking for repairs, getting aid for passengers; Malta’s PM says country’s safety must be ensured
+By Reuters and ToI Staff
+4 May 2025, 4:29 pm
+Share
+ 4
+The Conscience, after a drone struck the vessel carrying aid to Gaza off the coast of Malta, May 2, 2025.",Security,0.926331102848053
+8,Freedom Flotilla Coalition,"Gaza flotilla organization accuses Malta of barring activists from drone-hit ship
+Freedom Flotilla Coalition says Maltese authorities preventing vessel from docking for repairs, getting aid for passengers; Malta’s PM says country’s safety must be ensured
+By Reuters and ToI Staff
+4 May 2025, 4:29 pm
+Share
+ 4
+The Conscience, after a drone struck the vessel carrying aid to Gaza off the coast of Malta, May 2, 2025.",Political,0.8354930281639099
+8,Malta,"Gaza flotilla organization accuses Malta of barring activists from drone-hit ship
+Freedom Flotilla Coalition says Maltese authorities preventing vessel from docking for repairs, getting aid for passengers; Malta’s PM says country’s safety must be ensured
+By Reuters and ToI Staff
+4 May 2025, 4:29 pm
+Share
+ 4
+The Conscience, after a drone struck the vessel carrying aid to Gaza off the coast of Malta, May 2, 2025.",Security,0.926331102848053
+8,Gaza,"Gaza flotilla organization accuses Malta of barring activists from drone-hit ship
+Freedom Flotilla Coalition says Maltese authorities preventing vessel from docking for repairs, getting aid for passengers; Malta’s PM says country’s safety must be ensured
+By Reuters and ToI Staff
+4 May 2025, 4:29 pm
+Share
+ 4
+The Conscience, after a drone struck the vessel carrying aid to Gaza off the coast of Malta, May 2, 2025.",Political,0.8354930281639099
+8,Malta,"Gaza flotilla organization accuses Malta of barring activists from drone-hit ship
+Freedom Flotilla Coalition says Maltese authorities preventing vessel from docking for repairs, getting aid for passengers; Malta’s PM says country’s safety must be ensured
+By Reuters and ToI Staff
+4 May 2025, 4:29 pm
+Share
+ 4
+The Conscience, after a drone struck the vessel carrying aid to Gaza off the coast of Malta, May 2, 2025.",Security,0.926331102848053
+8,Gaza,"(Government of Cyprus via AP)
+VALLETTA, Malta — An international organization accused Malta on Sunday of impeding access to a Gaza-bound humanitarian aid ship that it says was bombed by two drones two days before, and Malta denied the claim, saying the crew had refused assistance.",Humanitarian,0.9379515647888184
+8,Gaza,It had been waiting to take on board some 30 activists from around the world before trying to sail to Gaza at the eastern end of the Mediterranean to deliver food and medicines.,Humanitarian,0.9060075879096984
+8,Screen,"(Screen capture: Instagram/Flotilla Freedom Coalition)
+“The humanitarian ship Conscience has been blocked in international waters since it was attacked by two drones in the early morning of May 2,” the coalition said in a statement.",Humanitarian,0.975473701953888
+8,Instagram/Flotilla Freedom Coalition,"(Screen capture: Instagram/Flotilla Freedom Coalition)
+“The humanitarian ship Conscience has been blocked in international waters since it was attacked by two drones in the early morning of May 2,” the coalition said in a statement.",Humanitarian,0.975473701953888
+8,Conscience,"(Screen capture: Instagram/Flotilla Freedom Coalition)
+“The humanitarian ship Conscience has been blocked in international waters since it was attacked by two drones in the early morning of May 2,” the coalition said in a statement.",Humanitarian,0.975473701953888
+8,Malta,"Prime Minister Robert Abela said Malta was continuing to offer assistance to the ship, but that Malta’s security needed to be safeguarded.",Security,0.9922702312469482
+8,Malta,"Prime Minister Robert Abela said Malta was continuing to offer assistance to the ship, but that Malta’s security needed to be safeguarded.",Security,0.9922702312469482
+8,Malta,Malta has had a consistent policy of supporting Palestinian causes and last month admitted a number of injured Gaza children for medical treatment.,Humanitarian,0.9731308221817015
+8,Hamas,"Hamas issued a statement about the incident off Malta, accusing Israel of 'piracy' and 'state terrorism.'",Political,0.915343165397644
+8,Gaza,The stop on aid entering Gaza is part of an Israeli effort to pressure Hamas back into a hostage deal.,Political,0.9939407110214232
+8,Hamas,The stop on aid entering Gaza is part of an Israeli effort to pressure Hamas back into a hostage deal.,Political,0.9939407110214232
+8,IDF,"At the same time, the IDF resumed its offensive in Gaza, seizing large sections of the Strip’s territory and killing an estimated 400 members of terror groups, including dozens of top officials in Hamas’s politburo and military wing.",Military,0.792027473449707
+8,Israel,"Israel says it has killed some 20,000 combatants in battle as of January and another 1,600 terrorists inside Israel during the initial Hamas onslaught.",Military,0.7040755152702332
+8,Israel,"Israel says it has killed some 20,000 combatants in battle as of January and another 1,600 terrorists inside Israel during the initial Hamas onslaught.",Military,0.7040755152702332
+9,Gaza Strip,An Israeli drone struck a ship carrying humanitarian aid to the war-torn and besieged Gaza Strip while it was in international waters near Malta on Friday.,Humanitarian,0.9845758676528932
+9,Gaza,The Israeli attack comes exactly two months after authorities halted all humanitarian aid and commercial goods from entering Gaza.,Humanitarian,0.7825115919113159
+9,the UN Humanitarian Affairs,"The number of children receiving treatment for malnutrition rose by 80 percent in April compared to March, driven by the ongoing blockade, the UN Humanitarian Affairs office (Ocha) reported earlier this week.",Humanitarian,0.9055779576301576
+10,Conscience,"Updated May 3, 2025
+5 min
+
+A tugboat equipped with firefighting equipment douses the Conscience, a vessel that was attempting to deliver humanitarian aid to the Gaza Strip, after it was allegedly struck by drones off the coast of Malta.",Humanitarian,0.945721447467804
+10,the Gaza Strip,"Updated May 3, 2025
+5 min
+
+A tugboat equipped with firefighting equipment douses the Conscience, a vessel that was attempting to deliver humanitarian aid to the Gaza Strip, after it was allegedly struck by drones off the coast of Malta.",Humanitarian,0.945721447467804
+10,Gaza,"By Victoria Bisset, Andrew Jeong and Susannah George
+
+Organizers of a flotilla carrying humanitarian aid intended for Gaza said their vessel came under attack from armed drones in international waters off the coast of Malta early Friday, causing serious damage to its hull and endangering the lives of those on board.",Humanitarian,0.9328365921974182
+10,Huwaida Arraf,"Huwaida Arraf, an organizer with the Freedom Flotilla Coalition, wrote in an email that while the group could not “confirm 100%,” it suspected Israel was behind the attack.",Political,0.8365477323532104
+10,the Freedom Flotilla Coalition,"Huwaida Arraf, an organizer with the Freedom Flotilla Coalition, wrote in an email that while the group could not “confirm 100%,” it suspected Israel was behind the attack.",Political,0.8365477323532104
+10,the Israel Defense Forces,"She added: '“We are deeply concerned about the potential for a second attack, as the vessel remains in international waters.”'
+
+Israel’s Foreign Ministry and the Israel Defense Forces did not respond to requests for comment.",Security,0.8463529348373413
+10,Acar,"“Who would send drones to bomb a ship that is anchoring off Malta?”
+
+Acar, from the Freedom Flotilla Coalition, said in a phone call earlier Friday that the vessel had been sailing under the Palau flag — but she added that the group was informed Thursday afternoon that Palau had removed its flag.",Political,0.8169132471084595
+10,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, a movement involving more than a dozen pro-Palestinian human rights groups, has organized aid missions aimed at breaching Israel’s naval blockade of the Gaza Strip for years.",Humanitarian,0.9036340713500975
+10,Israel,"Israel said it was imposing the blockade to pressure Hamas, which rules the territory and attacked Israeli communities on Oct. 7, 2023.",Political,0.8776870965957642
+10,Hamas,"Israel said it was imposing the blockade to pressure Hamas, which rules the territory and attacked Israeli communities on Oct. 7, 2023.",Political,0.8776870965957642
+11,The Freedom Flotilla Coalition,"Hamas-linked vessel marooned without flag after alleged drone strikes
+The Freedom Flotilla Coalition has accused Israel of launching the drone strikes on the ship,
+JNS Staff
+Palestinians hold flags during a rally at the seaport of Gaza City marking the fifth anniversary of the “Mavi Marmara” Gaza flotilla, May 31, 2015.",Political,0.8756778836250305
+11,Gaza City,"Photo by Aaed Tayeh/Flash90.Palestinians hold flags during a rally at the seaport of Gaza City marking the fifth anniversary of the “Mavi Marmara” Gaza flotilla, May 31, 2015.",Political,0.7069929242134094
+11,Gaza,"Photo by Aaed Tayeh/Flash90.Palestinians hold flags during a rally at the seaport of Gaza City marking the fifth anniversary of the “Mavi Marmara” Gaza flotilla, May 31, 2015.",Political,0.7069929242134094
+11,Tighe Barry,"Authorities in Malta, Greece, and Turkey have threatened to confiscate the vessel if it docks at their ports, Tighe Barry, a U.S.-based anti-Israel activist with the CodePink group, told the Associated Press.",Political,0.8713908791542053
+11,the Associated Press,"Authorities in Malta, Greece, and Turkey have threatened to confiscate the vessel if it docks at their ports, Tighe Barry, a U.S.-based anti-Israel activist with the CodePink group, told the Associated Press.",Political,0.8713908791542053
+11,Robert Abela,"Maltese Prime Minister Robert Abela stressed on Sunday that while his country would not let the Conscience dock, “especially since it doesn’t have a flag and insurance,” his government was offering to repair the damage if it is truly carrying aid.",Political,0.826701283454895
+11,Conscience,"Maltese Prime Minister Robert Abela stressed on Sunday that while his country would not let the Conscience dock, “especially since it doesn’t have a flag and insurance,” his government was offering to repair the damage if it is truly carrying aid.",Political,0.826701283454895
+11,Jeremy’s Circle,"Jeremy’s Circle, helping youth with cancer, expands to US
+May 11, 2025
+Israeli singer Yuval Raphael.",Humanitarian,0.9728458523750304
+11,Syria,"IDF paratroopers relieved in Syria ahead of expansion of Hamas war
+May 11, 2025
+“We are offering to pay for the repairs after we confirm the ship is, indeed, carrying humanitarian aid,” Abela told reporters, the Times of Malta reported.",Humanitarian,0.9520202875137328
+11,Saudi Arabia,"Saudi Arabia’s Al-Arabiya channel reported, citing a Western security source, that Hamas was behind the vessel and that passengers had planned to attack IDF soldiers as they approached Gaza’s shore.",Security,0.8929637670516968
+11,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition includes several Turkish NGOs, among them the IHH Humanitarian Relief Foundation and the Mavi Marmara Association, responsible for the 2010 Mavi Marmara incident, in which nine activists were killed after they attacked Israeli naval commandos.",Humanitarian,0.7238919734954834
+11,the Mavi Marmara Association,"The Freedom Flotilla Coalition includes several Turkish NGOs, among them the IHH Humanitarian Relief Foundation and the Mavi Marmara Association, responsible for the 2010 Mavi Marmara incident, in which nine activists were killed after they attacked Israeli naval commandos.",Humanitarian,0.7238919734954834
+11,Conscience,"The coalition has accused Jerusalem of launching the drone strikes on the Conscience, saying that “Israeli ambassadors must be summoned and answer to violations of international law, including the ongoing blockade and the bombing of our civilian vessel in international waters.”",Political,0.8275892734527588
+11,Israel,"An Israeli Air Force plane left Israel on Thursday and circled Malta hours before the alleged attack, the Times of Malta reported on Friday.",Military,0.789756178855896
+11,Israel,"Israel appears to have flown an unauthorized military aircraft over Malta, an E.U. state and in breach of our neutrality.",Military,0.930827498435974
+11,Israel Katz,"In March, Israel Katz, Jerusalem’s minister of defense, instructed the Israel Defense Forces to refrain from blocking foreign pro-Palestinian protesters seeking to enter the Gaza Strip by sea, but rather to seize their vessels.",Political,0.9185473322868348
+11,the Israel Defense Forces,"In March, Israel Katz, Jerusalem’s minister of defense, instructed the Israel Defense Forces to refrain from blocking foreign pro-Palestinian protesters seeking to enter the Gaza Strip by sea, but rather to seize their vessels.",Security,0.8670791983604431
+11,the Israel Defense Forces,"In March, Israel Katz, Jerusalem’s minister of defense, instructed the Israel Defense Forces to refrain from blocking foreign pro-Palestinian protesters seeking to enter the Gaza Strip by sea, but rather to seize their vessels.",Military,0.827954113483429
+11,Gaza,"“Whoever comes to demonstrate on the shores of Gaza, we will send them into Gaza and use the ships to evacuate Gaza residents who are interested in leaving voluntarily,” Katz said.",Political,0.7982072234153748
+11,Gaza,"“Whoever comes to demonstrate on the shores of Gaza, we will send them into Gaza and use the ships to evacuate Gaza residents who are interested in leaving voluntarily,” Katz said.",Political,0.7982072234153748
+11,Gaza,"“Whoever comes to demonstrate on the shores of Gaza, we will send them into Gaza and use the ships to evacuate Gaza residents who are interested in leaving voluntarily,” Katz said.",Political,0.7982072234153748
+11,Katz,"“Whoever comes to demonstrate on the shores of Gaza, we will send them into Gaza and use the ships to evacuate Gaza residents who are interested in leaving voluntarily,” Katz said.",Political,0.7982072234153748
+11,IDF,"His office added, “The defense minister instructed the IDF to allow the protest flotillas to reach Gaza’s coast, disembark the protesters in Gaza, and seize the ships and transfer them to Ashdod Port so that they can be used to evacuate Gaza residents who are interested in leaving Gaza.”",Military,0.8142135143280029
+12,Gaza,"A ship carrying 16 people and humanitarian aid to Gaza was rocked by explosions early Friday off the coast of Malta, setting the vessel on fire and putting it at risk of sinking, according to the human rights group operating the ship.",Humanitarian,0.9122969508171082
+12,Gaza,The group has sought to challenge Israel and Egypt’s blockade of Gaza by trying to deliver humanitarian aid to the territory by sea.,Humanitarian,0.8499101996421814
+12,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition has more than a dozen members, including I.H.H., a Turkish relief group, the group’s website said.",Humanitarian,0.8978782892227173
+12,I.H.H.,"The Freedom Flotilla Coalition has more than a dozen members, including I.H.H., a Turkish relief group, the group’s website said.",Humanitarian,0.8978782892227173
+12,I.H.H.,I.H.H. has been a virulent critic of the blockade on Gaza and the devastation caused by Israel’s military campaign in the territory.,Political,0.859564483165741
+12,Gaza,I.H.H. has been a virulent critic of the blockade on Gaza and the devastation caused by Israel’s military campaign in the territory.,Political,0.859564483165741
+13,Gaza,"""On board are international human rights activists on a nonviolent humanitarian mission to challenge Israel's illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid.",Humanitarian,0.9759944677352904
+13,Huwaida Arraf,"Huwaida Arraf, an organizer with the Freedom Flotilla Coalition, wrote in an email to The Washington Post that the group suspects Israel was behind the attack but can't ""confirm 100%.""",Political,0.8264765739440918
+13,Israel,This act by Israel sends a message to the world: Anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Political,0.8584445118904114
+13,Israel,This act by Israel sends a message to the world: Anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Military,0.7078863382339478
+13,CNNreport,"""
+CodePink pointed to a CNNreport indicating that ""an Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta.""",Military,0.8313516974449158
+13,Israel,"""
+CodePink pointed to a CNNreport indicating that ""an Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta.""",Military,0.8313516974449158
+13,Gaza,"""On board are international human rights activists on a nonviolent humanitarian mission to challenge Israel's illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid.",Humanitarian,0.9759944677352904
+13,Huwaida Arraf,"Huwaida Arraf, an organizer with the Freedom Flotilla Coalition, wrote in an email to The Washington Post that the group suspects Israel was behind the attack but can't ""confirm 100%.""",Political,0.8264765739440918
+13,Israel,This act by Israel sends a message to the world: Anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Political,0.8584445118904114
+13,Israel,This act by Israel sends a message to the world: Anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Military,0.7078863382339478
+13,CNNreport,"""
+CodePink pointed to a CNNreport indicating that ""an Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta.""",Military,0.8313516974449158
+13,Israel,"""
+CodePink pointed to a CNNreport indicating that ""an Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta.""",Military,0.8313516974449158
+13,Gaza,"""On board are international human rights activists on a nonviolent humanitarian mission to challenge Israel's illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid.",Humanitarian,0.9759944677352904
+13,Huwaida Arraf,"Huwaida Arraf, an organizer with the Freedom Flotilla Coalition, wrote in an email to The Washington Post that the group suspects Israel was behind the attack but can't ""confirm 100%.""",Political,0.8264765739440918
+13,Israel,This act by Israel sends a message to the world: Anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Political,0.8584445118904114
+13,Israel,This act by Israel sends a message to the world: Anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Military,0.7078863382339478
+13,CNNreport,"""
+CodePink pointed to a CNNreport indicating that ""an Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta.""",Military,0.8313516974449158
+13,Israel,"""
+CodePink pointed to a CNNreport indicating that ""an Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta.""",Military,0.8313516974449158
+14,Israel,"Organizers say Israel is behind drone attack on Gaza aid flotilla
+A ship carrying aid to Gaza was hit by a drone in international waters off the coast of Malta.",Political,0.8839830160140991
+14,Gaza,"Organizers say Israel is behind drone attack on Gaza aid flotilla
+A ship carrying aid to Gaza was hit by a drone in international waters off the coast of Malta.",Political,0.8839830160140991
+14,Gaza,"Organizers say Israel is behind drone attack on Gaza aid flotilla
+A ship carrying aid to Gaza was hit by a drone in international waters off the coast of Malta.",Political,0.8839830160140991
+14,Israel,Many are accusing Israel of being behind the attack.,Political,0.8738136887550354
+14,Israel,The human rights activists on the boat are attempting to challenge Israel’s illegal blockade and deliver food and supplies to the people of Gaza.,Political,0.8524656295776367
+14,Gaza,The human rights activists on the boat are attempting to challenge Israel’s illegal blockade and deliver food and supplies to the people of Gaza.,Humanitarian,0.9215127229690552
+14,Gaza,The human rights activists on the boat are attempting to challenge Israel’s illegal blockade and deliver food and supplies to the people of Gaza.,Political,0.8524656295776367
+14,Gaza,"""
+
+If their involvement is confirmed, it wouldn’t be the first time that Israel has targeted activists carrying humanitarian supplies to Gaza.",Humanitarian,0.904358983039856
+14,Israel,"""If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe,"" tweeted Progressive International’s David Adler.",Political,0.8012572526931763
+14,Palestine,"""If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe,"" tweeted Progressive International’s David Adler.",Political,0.8012572526931763
+14,Progressive International’s,"""If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe,"" tweeted Progressive International’s David Adler.",Political,0.8012572526931763
+14,David Adler,"""If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe,"" tweeted Progressive International’s David Adler.",Political,0.8012572526931763
+15,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, which is campaigning to end Israel’s blockade of Gaza, posted a video on X saying one of its ships off the coast of Malta has been hit by drones.",Political,0.914855659008026
+15,Israel,"The Freedom Flotilla Coalition, which is campaigning to end Israel’s blockade of Gaza, posted a video on X saying one of its ships off the coast of Malta has been hit by drones.",Political,0.914855659008026
+15,Gaza,"The Freedom Flotilla Coalition, which is campaigning to end Israel’s blockade of Gaza, posted a video on X saying one of its ships off the coast of Malta has been hit by drones.",Political,0.914855659008026
+15,CNN,CNN Sans ™ & © 2016 Cable News Network.,Neutral,0.8736751079559326
+16,Freedom Flotilla,"Drone attack on Gaza ‘Freedom Flotilla’ ship
+Aid workers trying to deliver supplies to Gaza were left stranded on a burning ship in the middle of the Mediterranean Sea after they say it was attacked by drones.",Humanitarian,0.9251526594161988
+16,Gaza,The ship was part of an attempt to challenge Israel’s two-month blockade of Gaza.,Political,0.8102371096611023
+17,Gaza,"NGO says it's in talks with Malta to repair Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 9:03 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9187548756599426
+17,Gaza,"NGO says it's in talks with Malta to repair Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 9:03 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9187548756599426
+17,Freedom Flotilla,"NGO says it's in talks with Malta to repair Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 9:03 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9187548756599426
+17,Gaza,"NGO says it's in talks with Malta to repair Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 9:03 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9187548756599426
+17,REUTERS/Darrin Zammit Lupi,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+17,Gaza,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+17,Freedom Flotilla,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+17,Gaza,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+17,Gaza,An international NGO that intends to deliver humanitarian aid to Gaza by sea said on Sunday it was in talks with Malta's government about allowing the vessel to enter Maltese waters to repair damage caused by a drone attack.,Humanitarian,0.978366196155548
+17,Conscience,The Conscience had been waiting to take on board some 30 peace activists from around the world before trying to sail to Gaza in the eastern Mediterranean to deliver food and medicines.,Humanitarian,0.9503425359725952
+17,Conscience,The Conscience had been waiting to take on board some 30 peace activists from around the world before trying to sail to Gaza in the eastern Mediterranean to deliver food and medicines.,Political,0.8386287689208984
+17,Malta,A Malta government spokesman said its offer was to assist in repairs out at sea once the boat's cargo was verified to be aid.,Humanitarian,0.813113272190094
+17,Hamas,"Hamas issued a statement about the incident off Malta, accusing Israel of ""piracy"" and ""state terrorism"".",Political,0.8824065327644348
+18,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+18,FFC,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+18,The Armed Forces of Malta,The Armed Forces of Malta confirmed there was a fire on a ship that was later extinguished.,Military,0.9668056964874268
+18,Malta,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+18,FFC,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+18,the Maritime Squadron of the Armed Forces of Malta,"When asked by CNN for comment, the Maritime Squadron of the Armed Forces of Malta said the vessel and the crew are secure, and that the ship remains outside territorial waters and is being monitored by authorities.",Security,0.955386519432068
+18,Thunberg,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+18,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+18,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+18,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+18,Wright,"“What is certain is that we human rights activists will continue to do everything in our power to do our part.”
+    
+
+            Speaking to CNN from Malta, Wright said activists “were ready to get on the boat.",Political,0.76259446144104
+18,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition describes itself on its website as an international network of pro-Palestinian activists working to end Israel’s blockade of Gaza and deliver humanitarian aid to the besieged enclave by taking direct, non-violent action.",Humanitarian,0.8058450222015381
+18,Gaza,"Related article
+Israeli military boards Gaza-bound aid ships
+
+
+            Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Political,0.7591944932937622
+18,Gaza,"Related article
+Israeli military boards Gaza-bound aid ships
+
+
+            Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Political,0.7591944932937622
+18,Israel,"Related article
+Israeli military boards Gaza-bound aid ships
+
+
+            Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Military,0.8899490833282471
+18,Israel,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+18,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Humanitarian,0.8445852994918823
+18,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+18,the Occupied Palestinian Territories,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+18,Gaza,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+18,Israel,"The group pointed the finger of blame at Israel, without providing evidence.",Political,0.8781840205192566
+18,An Israeli Air Force C-130 Hercules,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+18,Israel,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+18,Trevor Ball,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+18,US Army,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+18,CNN,CNN Sans ™ & © 2016 Cable News Network.,Neutral,0.8736751079559326
+19,Gaza,"NGO says Malta blocking access to Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 5:24 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9337661266326904
+19,Gaza,"NGO says Malta blocking access to Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 5:24 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9337661266326904
+19,Freedom Flotilla,"NGO says Malta blocking access to Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 5:24 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9337661266326904
+19,Gaza,"NGO says Malta blocking access to Gaza-bound aid ship hit by drones
+By Christopher Scicluna
+May 4, 2025 5:24 PM GMT+5:30 Updated 7 days ago
+
+Item 1 of 5 The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9337661266326904
+19,REUTERS/Darrin Zammit Lupi,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+19,Gaza,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+19,Freedom Flotilla,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+19,Gaza,"REUTERS/Darrin Zammit Lupi
+[1/5]The damaged Gaza Freedom Flotilla vessel ""Conscience"" is anchored at sea outside Maltese territorial waters, after it was bombed by drones while carrying humanitarian aid to Gaza, May 3, 2025.",Humanitarian,0.9907212853431702
+19,Gaza,"An international NGO accused Malta on Sunday of impeding access to a Gaza-bound humanitarian aid ship which it says was bombed by two drones two days before, and Malta denied the claim, saying the crew had refused assistance.",Humanitarian,0.9116862416267396
+19,Gaza,It had been waiting to take on board some 30 peace activists from around the world before trying to sail to Gaza at the eastern end of the Mediterranean to deliver food and medicines.,Humanitarian,0.9462454319000244
+19,Conscience,"""The humanitarian ship Conscience has been blocked in international waters since it was attacked by two drones in the early morning of May 2,"" the coalition said in a statement.",Humanitarian,0.9246776700019836
+19,Malta,"Prime Minister Robert Abela said Malta was continuing to offer assistance to the ship, but that Malta's security needed to be safeguarded.",Security,0.9925122261047364
+19,Malta,"Prime Minister Robert Abela said Malta was continuing to offer assistance to the ship, but that Malta's security needed to be safeguarded.",Security,0.9925122261047364
+19,Malta,Malta has had a consistent policy of supporting Palestinian causes and last month admitted a number of injured Gaza children for medical treatment.,Humanitarian,0.9731308221817015
+19,Hamas,"Hamas issued a statement about the incident off Malta, accusing Israel of ""piracy"" and ""state terrorism"".",Political,0.8824065327644348
+20,Freedom Flotilla Coalition,"Freedom Flotilla Coalition claims Israel to blame for attack on unarmed civilian vessel in international waters
+A ship carrying humanitarian aid and activists to Gaza has been bombed by drones and disabled while in international waters off Malta as it headed towards the Palestinian territory, its organisers have said.",Political,0.740382969379425
+20,Israel,"The group said activists from 21 countries were onboard on a “mission to challenge Israel’s illegal and deadly siege of Gaza and to deliver desperately needed, life-saving aid”.",Political,0.7064225077629089
+20,Gaza,"The group said activists from 21 countries were onboard on a “mission to challenge Israel’s illegal and deadly siege of Gaza and to deliver desperately needed, life-saving aid”.",Political,0.7064225077629089
+20,Gaza,"“I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” she said.",Humanitarian,0.9250584840774536
+20,Gaza,"“I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” she said.",Humanitarian,0.9250584840774536
+20,Israel,"Israel imposed a tight blockade on Gaza two months ago, allowing no food, fuel, medicine or other item into the territory, and resumed intense military operations in Gaza in mid-March after a fragile ceasefire collapsed.",Military,0.797488808631897
+20,Israel,"Israel imposed a tight blockade on Gaza two months ago, allowing no food, fuel, medicine or other item into the territory, and resumed intense military operations in Gaza in mid-March after a fragile ceasefire collapsed.",Political,0.7261517643928528
+20,Gaza,"Israel imposed a tight blockade on Gaza two months ago, allowing no food, fuel, medicine or other item into the territory, and resumed intense military operations in Gaza in mid-March after a fragile ceasefire collapsed.",Political,0.7261517643928528
+20,Gaza,"Israel imposed a tight blockade on Gaza two months ago, allowing no food, fuel, medicine or other item into the territory, and resumed intense military operations in Gaza in mid-March after a fragile ceasefire collapsed.",Political,0.7261517643928528
+20,Gaza,Humanitarian organisations in Gaza have distributed the last of their stocks of flour and other foodstuffs.,Humanitarian,0.9649372100830078
+20,the International Committee of the Red Cross,"On Friday, the International Committee of the Red Cross said it would not have access to food, medicine and life-saving supplies needed for many of its Gaza programmes unless aid deliveries resumed immediately.",Humanitarian,0.9336914420127868
+20,Gaza,"On Friday, the International Committee of the Red Cross said it would not have access to food, medicine and life-saving supplies needed for many of its Gaza programmes unless aid deliveries resumed immediately.",Humanitarian,0.9336914420127868
+20,Gaza,"“Without immediate action, Gaza will descend further into chaos that humanitarian efforts will not be able to mitigate.”
+Medical workers in Gaza’s remaining health facilities said they were now prioritising cases to make sure available medical stocks were reserved for the most serious.",Humanitarian,0.7853685617446899
+20,Gaza,"“Without immediate action, Gaza will descend further into chaos that humanitarian efforts will not be able to mitigate.”
+Medical workers in Gaza’s remaining health facilities said they were now prioritising cases to make sure available medical stocks were reserved for the most serious.",Humanitarian,0.7853685617446899
+20,UN,A UN team has been sent to the devastated Palestinian territory to assess levels of malnutrition and the risk of famine.,Humanitarian,0.9000714421272278
+20,Gaza,Humanitarian officials in Gaza say the plan is unworkable and potentially illegal.,Humanitarian,0.7597509622573853
+21,the Gaza Strip,"A vessel transporting humanitarian aid to the Gaza Strip claimed it was targeted by a drone strike off the coast of Malta and issued an SOS signal, according to the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.9452911019325256
+21,SOS,"A vessel transporting humanitarian aid to the Gaza Strip claimed it was targeted by a drone strike off the coast of Malta and issued an SOS signal, according to the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.9452911019325256
+21,the Freedom Flotilla Coalition,"A vessel transporting humanitarian aid to the Gaza Strip claimed it was targeted by a drone strike off the coast of Malta and issued an SOS signal, according to the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.9452911019325256
+21,FFC,"A vessel transporting humanitarian aid to the Gaza Strip claimed it was targeted by a drone strike off the coast of Malta and issued an SOS signal, according to the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.9452911019325256
+22,Gaza,A ship carrying humanitarian aid to Gaza was struck by an Israeli drone overnight - a reality all too familiar to the organisers of the mission.,Humanitarian,0.989221453666687
+22,FFC,"FFC says its goal is to break Israel’s 18-year land, sea and air blockade of the Gaza Strip, which has deprived Palestinians of their rights to health, safety and freedom of movement.",Political,0.7973092794418335
+22,the Gaza Strip,"FFC says its goal is to break Israel’s 18-year land, sea and air blockade of the Gaza Strip, which has deprived Palestinians of their rights to health, safety and freedom of movement.",Political,0.7973092794418335
+22,IHH Humanitarian Relief Foundation,The Mavi Marmara mission had been organised by the Free Gaza Movement and Turkey's IHH Humanitarian Relief Foundation.,Humanitarian,0.960921347141266
+22,Israel,Organisers said that Israel had sabotaged two of the ships set to depart from Turkey and Greece.,Political,0.8194894790649414
+22,Dignite al-Karama,"The only aid ship that managed to get near Gaza, the French vessel Dignite al-Karama, was intercepted by Israeli authorities.",Humanitarian,0.9264467358589172
+22,the Women’s Boat,"The following year, the FFC organised the Women’s Boat to Gaza, a single ship with an entirely female crew.",Humanitarian,0.9634021520614624
+22,Handala,"In 2023 and 2024, the ship Handala, which is focused on the children of Gaza, set sail to several destinations in Europe to educate people about Israel’s siege and war on Gaza.",Humanitarian,0.9070733189582824
+23,Freedom Flotilla,"Conscience, a Freedom Flotilla aid ship aiming to break Israel’s two-month siege on Gaza, was struck by drones off the coast of Malta in the early hours of Friday.",Humanitarian,0.9136179685592652
+23,Malta,"“Right here, we are in Malta dealing with a brutal attack on an innocent ship, a ship that was anchored or outside of territorial waters, waiting for us, the activists to come on board so that we could then head toward Gaza to say to the world, ‘Here are some citizens who are willing to take action where our government has failed to act.’",Political,0.8104729652404785
+23,Gaza,"“Right here, we are in Malta dealing with a brutal attack on an innocent ship, a ship that was anchored or outside of territorial waters, waiting for us, the activists to come on board so that we could then head toward Gaza to say to the world, ‘Here are some citizens who are willing to take action where our government has failed to act.’",Political,0.8104729652404785
+23,the European Commission,"Last month, the European Commission agreed to levy tariffs of up to 25 percent on cigarettes from Florida, beef from Kansas and Nebraska, chicken from Louisiana, car parts from Michigan, and most importantly, soybeans—of which the European Union bought $2.43 billion’s worth in 2024.",Political,0.7786349058151245
+23,the European Union,"Last month, the European Commission agreed to levy tariffs of up to 25 percent on cigarettes from Florida, beef from Kansas and Nebraska, chicken from Louisiana, car parts from Michigan, and most importantly, soybeans—of which the European Union bought $2.43 billion’s worth in 2024.",Political,0.7786349058151245
+23,Trump,"After Trump floated eliminating FEMA altogether, the agency stopped paying for temporary housing for more than 1,200 families displaced by Hurricane Helene in North Carolina.",Political,0.948965549468994
+23,FEMA,"After Trump floated eliminating FEMA altogether, the agency stopped paying for temporary housing for more than 1,200 families displaced by Hurricane Helene in North Carolina.",Political,0.948965549468994
+23,CBS,CBS’s flagship news magazine show 60 Minutes is upping the ante in its fight against Donald Trump.,Political,0.92180597782135
+23,Trump,"“On the campaign trail, President Trump vowed to wield the power of the presidency to go after his perceived enemies,” the listing reads.",Political,0.9150838851928712
+23,the White House,"“Now in the White House, Trump is using executive orders to target some of the biggest law firms in the country that he accuses of ‘weaponizing’ the justice system against him.”",Political,0.8907872438430786
+23,Trump,"“Now in the White House, Trump is using executive orders to target some of the biggest law firms in the country that he accuses of ‘weaponizing’ the justice system against him.”",Political,0.8907872438430786
+23,Trump,"Trump sued CBS for $20 billion after the interview, claiming that the different clips amounted to “election interference” and that Harris should drop out of the presidential race over the GOP-baked scandal.",Political,0.9856230020523072
+23,CBS,"Trump sued CBS for $20 billion after the interview, claiming that the different clips amounted to “election interference” and that Harris should drop out of the presidential race over the GOP-baked scandal.",Political,0.9856230020523072
+23,GOP,"Trump sued CBS for $20 billion after the interview, claiming that the different clips amounted to “election interference” and that Harris should drop out of the presidential race over the GOP-baked scandal.",Political,0.9856230020523072
+23,CBS,But that’s just the tip of the iceberg: Trump and his allies have also insisted that CBS should lose its broadcasting license for what they view as selectively editing Harris’s answer.,Political,0.9703972935676576
+23,The New York Times,"And on Wednesday, the president attempted to rope The New York Times into the affair, protesting online that the newspaper’s decision to quote individuals who described the case as “baseless” is tantamount to “tortious interference.”",Political,0.8949176073074341
+24,Israel,"Israel says the blockade is an attempt to pressure the Palestinian militant group to release hostages it took during the Oct. 7, 2023, attack that triggered the conflict.",Political,0.8972787857055664
+24,Israel,Israel’s bombardment and ground operations have destroyed vast areas of the territory and left most of its population homeless.,Military,0.7601739168167114
+24,Gaza,The attack happened as aid groups have warned that the humanitarian response in Gaza is on the verge of collapse.,Humanitarian,0.9654926061630248
+24,The International Committee of the Red Cross,"The International Committee of the Red Cross said Friday that it will not have access to food, medicine and life-saving supplies needed for many of its Gaza programs if aid deliveries don’t resume immediately.",Humanitarian,0.8929901123046875
+24,Gaza,"The International Committee of the Red Cross said Friday that it will not have access to food, medicine and life-saving supplies needed for many of its Gaza programs if aid deliveries don’t resume immediately.",Humanitarian,0.8929901123046875
+24,Gaza,"“Without immediate action, Gaza will descend further into chaos that humanitarian efforts will not be able to mitigate.”",Humanitarian,0.9286266565322876
+25,Gaza,"A vessel set to deliver humanitarian aid to Gaza has been struck by drones in international waters near Malta, according to the group behind the mission.",Humanitarian,0.9696924686431884
+25,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, which organised the shipment, accused Israel of carrying out the attack.",Political,0.7144249081611633
+25,Gaza,"The attack comes amid a worsening humanitarian crisis in Gaza, which has been under a full blockade since March, with Israel halting all imports, including food and medicine.",Humanitarian,0.8500894904136658
+25,Israel,Israel says the blockade is intended to pressure Hamas to release the hostages it is still holding since its 7 October 2023 incursion into southern Israel.,Political,0.7936298847198486
+25,Israel,Israel says the blockade is intended to pressure Hamas to release the hostages it is still holding since its 7 October 2023 incursion into southern Israel.,Political,0.7936298847198486
+25,The International Committee of the Red Cross,The International Committee of the Red Cross warned on Friday that its humanitarian operations could collapse without the immediate resumption of aid deliveries.,Humanitarian,0.9636890292167664
+25,Gaza,"""Without immediate action, Gaza will descend further into chaos that humanitarian efforts will not be able to mitigate,"" the group added.",Humanitarian,0.8141798377037048
+26,Gaza Strip,Social media has erupted in anger after Israeli drones struck a ship with 30 rights activists and humanitarian aid headed for the besieged Gaza Strip.,Political,0.7372103929519653
+26,FFC,"Friday's attack appeared to target the ship’s generator, causing a fire and power outage on the ship while it was in international waters near Malta, according to the Freedom Flotilla Coalition (FFC), a coalition of nonviolent activists campaigning to end the Israeli siege on Gaza, which organised the mission.",Political,0.7955902814865112
+26,Conscience,"Israel's attack on the ship, the Conscience, sparked fierce condemnation online, as well as calls on international leaders to take action.",Political,0.7795990705490112
+26,Gaza,"Since Israel halted all humanitarian aid into Gaza in early March, at least 95 percent of UN and international aid agencies have halted distributions after their warehouses ran dry, leaving the majority of Palestinians in Gaza food insecure and facing starvation.",Humanitarian,0.8218317627906799
+26,UN,"Since Israel halted all humanitarian aid into Gaza in early March, at least 95 percent of UN and international aid agencies have halted distributions after their warehouses ran dry, leaving the majority of Palestinians in Gaza food insecure and facing starvation.",Humanitarian,0.8218317627906799
+26,Gaza,"Since Israel halted all humanitarian aid into Gaza in early March, at least 95 percent of UN and international aid agencies have halted distributions after their warehouses ran dry, leaving the majority of Palestinians in Gaza food insecure and facing starvation.",Humanitarian,0.8218317627906799
+26,Sabreena Ghaffar-Siddiqui,"Sabreena Ghaffar-Siddiqui, a scholar and activist, posted: “Let this serve as a lesson that any peaceful action against Israel will always be met with the same aggression that any violent resistance to its oppression is met with,” adding that the strike was “as much a war crime” as Israel’s 18-month assault on the Gaza Strip.",Political,0.7022429704666138
+26,Israel,"Others recalled Israel’s attack on a 2010 Freedom Flotilla mission organised by the Free Gaza Movement, the Turkish Foundation for Human Rights and Freedoms, and Humanitarian Relief Foundation, in which soldiers boarded the Mavi Marmara and killed 10 activists.",Military,0.7370553612709045
+26,Freedom Flotilla,"“I have not forgotten how the first Freedom Flotilla in 2010 ended with israel killing activists onboard the Mavi Marmara,” said one user.",Political,0.7371898293495178
+27,Malta,Malta offers to repair Gaza blockade-busting ship after alleged drone strike.,Humanitarian,0.9517434239387512
+27,Robert Abela,"Prime Minister Robert Abela says Freedom Flotilla Coalition must first allow maritime surveyor on board to assess damage to ‘Conscience,’ which will be sent on its way after fixes.",Political,0.9089075326919556
+27,VALLETTA,"VALLETTA, Malta — Malta offered on Sunday to repair an aid ship and send it on its way to Gaza after pro-Palestinian, anti-Israel activists said the vessel had been hit by a drone strike.",Humanitarian,0.9275250434875488
+27,VALLETTA,"VALLETTA, Malta — Malta offered on Sunday to repair an aid ship and send it on its way to Gaza after pro-Palestinian, anti-Israel activists said the vessel had been hit by a drone strike.",Political,0.8790934681892395
+27,Malta,"VALLETTA, Malta — Malta offered on Sunday to repair an aid ship and send it on its way to Gaza after pro-Palestinian, anti-Israel activists said the vessel had been hit by a drone strike.",Humanitarian,0.9275250434875488
+27,Malta,"VALLETTA, Malta — Malta offered on Sunday to repair an aid ship and send it on its way to Gaza after pro-Palestinian, anti-Israel activists said the vessel had been hit by a drone strike.",Political,0.8790934681892395
+27,Malta,"VALLETTA, Malta — Malta offered on Sunday to repair an aid ship and send it on its way to Gaza after pro-Palestinian, anti-Israel activists said the vessel had been hit by a drone strike.",Humanitarian,0.9275250434875488
+27,Malta,"VALLETTA, Malta — Malta offered on Sunday to repair an aid ship and send it on its way to Gaza after pro-Palestinian, anti-Israel activists said the vessel had been hit by a drone strike.",Political,0.8790934681892395
+27,Robert Abela,But Prime Minister Robert Abela said the Freedom Flotilla Coalition must first allow a maritime surveyor on board to inspect the “Conscience” and determine what repairs are needed.,Political,0.8834244608879089
+27,Israel,"The activists had pointed the finger at Israel, which has blockaded the Gaza Strip throughout its military campaign against the Hamas terror group, for the attack.",Political,0.8002912402153015
+27,Israel,"Israel says the goal of its blockade is to pressure Hamas to free the remaining hostages of the 251 taken by Hamas-led terrorists during the October 7, 2023, attack on Israel, in which invaders killed some 1,200 people and started the war.",Political,0.9074667096138
+27,Israel,"Israel says the goal of its blockade is to pressure Hamas to free the remaining hostages of the 251 taken by Hamas-led terrorists during the October 7, 2023, attack on Israel, in which invaders killed some 1,200 people and started the war.",Political,0.9074667096138
+27,Greta Thunberg,"In an online press conference, members of the coalition who had been due to board the Conscience in Malta — including Swedish activist Greta Thunberg — said they had agreed to allow the inspection.",Political,0.8706513047218323
+27,FFC,"“When we received this offer from the Maltese government, we consulted with all of our Flotilla Coalition committee members who are on board,” said Brazilian FFC volunteer Thiago Avila.",Political,0.7856811881065369
+27,Conscience,“As long as they can guarantee… Conscience will not be stopped when it wants to leave on the humanitarian mission to take aid to Gaza.”,Humanitarian,0.9835898280143738
+27,Gaza,“As long as they can guarantee… Conscience will not be stopped when it wants to leave on the humanitarian mission to take aid to Gaza.”,Humanitarian,0.9835898280143738
+27,Codepink,"As a result, authorities in Malta, Greece and Turkey warned that they would seize the ship if it came to port, an activist with anti-war group Codepink told the Associated Press on Saturday.",Political,0.7620056867599487
+27,CNN,"First reported by CNN, a flight-tracking service showed that an Israeli C-130 military cargo plane had been in the area immediately before the incident and had made several low-altitude sweeps over the area.",Military,0.8755190372467041
+27,Gaza,It had been waiting to take on board some 30 activists from around the world before trying to sail to Gaza at the eastern end of the Mediterranean to deliver food and medicines.,Humanitarian,0.9060075879096984
+28,The Freedom Flotilla Coalition,The Freedom Flotilla Coalition said one of its ships was hit by drone strikes in international waters while transporting aid for Gaza.,Humanitarian,0.8986112475395203
+28,Gaza,"A ship carrying humanitarian aid to Gaza was attacked from the air near Malta, causing fire onboard, the Freedom Flotilla Coalition said on Friday.",Humanitarian,0.9871740341186525
+28,the Freedom Flotilla Coalition,"A ship carrying humanitarian aid to Gaza was attacked from the air near Malta, causing fire onboard, the Freedom Flotilla Coalition said on Friday.",Humanitarian,0.9871740341186525
+28,Israel,"Israel is ""the primary entity interested in keeping us and any aid out of Gaza,"" said spokesperson Hay Sha Wiya.",Security,0.961775839328766
+28,The Freedom Flotilla,"The Freedom Flotilla called for ""Israeli ambassadors"" to be summoned and answer for the ongoing Gaza blockade ""and the bombing of our civilian vessel in international waters.",Political,0.8285031318664551
+28,Gaza,"The Freedom Flotilla called for ""Israeli ambassadors"" to be summoned and answer for the ongoing Gaza blockade ""and the bombing of our civilian vessel in international waters.",Political,0.8285031318664551
+28,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" Thunberg told Reuters.",Humanitarian,0.9389832615852356
+28,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" Thunberg told Reuters.",Humanitarian,0.9389832615852356
+28,UN,"To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+Speaking to reporters in Geneva via video link from Gaza City, UN humanitarian spokesperson Olga Cherevko said community kitchens were shutting down and more people were going hungry.",Humanitarian,0.9461916089057922
+28,Olga Cherevko,"To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+Speaking to reporters in Geneva via video link from Gaza City, UN humanitarian spokesperson Olga Cherevko said community kitchens were shutting down and more people were going hungry.",Humanitarian,0.9461916089057922
+28,the International Committee of the Red Cross,"""
+At the same time, the International Committee of the Red Cross called ""immediate action.""
+""The humanitarian response in Gaza is on the verge of total collapse,"" they said.",Humanitarian,0.9339287281036376
+28,Gaza,"""
+At the same time, the International Committee of the Red Cross called ""immediate action.""
+""The humanitarian response in Gaza is on the verge of total collapse,"" they said.",Humanitarian,0.9339287281036376
+29,the Red Cross,"Meanwhile, the Red Cross warned that “after two months of total blockage of humanitarian aid, the situation in Gaza is on the verge of total collapse.”",Humanitarian,0.923064947128296
+29,ICRC,"According to the ICRC, supplies of food and medical equipment at its field hospital in Gaza are running out, with some items completely depleted.",Humanitarian,0.8305334448814392
+29,Gaza,"According to the ICRC, supplies of food and medical equipment at its field hospital in Gaza are running out, with some items completely depleted.",Humanitarian,0.8305334448814392
+30,Israel,"These were the updates on Israel’s war on Gaza and attacks on the occupied West Bank for Friday, May 2.",Military,0.7462208867073059
+30,UN,You can find here our key takeaways from the ICJ’s hearings into what Israel’s obligations are regarding allowing UN agencies and other relief groups to work in the Palestinian territory it occupies.,Humanitarian,0.7928767800331116
+30,The University of Haifa,"Here’s a recap of the day’s major developments:
+The University of Haifa has suspended its campus chapter of Standing Together, a left-wing activist group, following a silent protest against the ongoing war in Gaza.",Political,0.966223418712616
+30,Standing Together,"Here’s a recap of the day’s major developments:
+The University of Haifa has suspended its campus chapter of Standing Together, a left-wing activist group, following a silent protest against the ongoing war in Gaza.",Political,0.966223418712616
+30,Gaza,"Here’s a recap of the day’s major developments:
+The University of Haifa has suspended its campus chapter of Standing Together, a left-wing activist group, following a silent protest against the ongoing war in Gaza.",Political,0.966223418712616
+30,Gaza,"The demonstration, held on April 23, involved more than a dozen students sitting silently in a campus building for 10 minutes, holding photos of Palestinian children killed in Gaza.",Political,0.9394124150276184
+30,Alon-Lee Green,"Alon-Lee Green, co-director of Standing Together, criticised the university’s decision, stating it challenges due process and freedom of expression, according to media reports.",Political,0.803279459476471
+30,Standing Together,"Alon-Lee Green, co-director of Standing Together, criticised the university’s decision, stating it challenges due process and freedom of expression, according to media reports.",Political,0.803279459476471
+30,Helal,"In a statement, the Arab League said Helal emphasised Israel’s obligation as the occupying power under international law are to ensure that it does not obstruct the work of the UN and other states engaged in humanitarian and relief efforts.",Humanitarian,0.826835572719574
+30,UN,"In a statement, the Arab League said Helal emphasised Israel’s obligation as the occupying power under international law are to ensure that it does not obstruct the work of the UN and other states engaged in humanitarian and relief efforts.",Humanitarian,0.826835572719574
+30,Israel,Israel’s military said its air force intercepted a “UAV that was launched from the east”.,Military,0.8816371560096741
+31,Freedom Flotilla,“Freedom Flotilla” attacked by drone in international waters on its way to deliver aid amid Gaza blockade.,Humanitarian,0.9767663478851318
+31,FFC,"A Freedom Flotilla Coalition (FFC) ship called The Conscience, which was carrying aid to the besieged Gaza strip, was hit by drones in the international waters of the Mediterranean sea in the early hours of Friday, May 2.",Humanitarian,0.7823214530944824
+31,Colombia,"Meanwhile, the President of Colombia, Gustavo Petro, urged the Maltese and Italian authorities to “give maximum attention and support” to two Colombian citizens on board The Conscience, which is currently off their coasts.",Political,0.8443754315376282
+31,Gustavo Petro,"Meanwhile, the President of Colombia, Gustavo Petro, urged the Maltese and Italian authorities to “give maximum attention and support” to two Colombian citizens on board The Conscience, which is currently off their coasts.",Political,0.8443754315376282
+32,Israel,The activists claimed Israel was responsible.,Political,0.8894422054290771
+32,Conscience,"The attack on the Conscience, a vessel operated by pro-Palestinian activists and part of the so-called Freedom Flotilla Coalition, came on the same day that a week of hearings on Israel's blockade of humanitarian aid to the Gaza Strip ended at the International Court of Justice.",Political,0.8719721436500549
+32,Freedom Flotilla Coalition,"The attack on the Conscience, a vessel operated by pro-Palestinian activists and part of the so-called Freedom Flotilla Coalition, came on the same day that a week of hearings on Israel's blockade of humanitarian aid to the Gaza Strip ended at the International Court of Justice.",Political,0.8719721436500549
+32,the Gaza Strip,"Over the past week, nation after nation — though not the United States — spoke out against Israel's actions in the Gaza Strip and the West Bank.",Political,0.7773159146308899
+32,the West Bank,"Over the past week, nation after nation — though not the United States — spoke out against Israel's actions in the Gaza Strip and the West Bank.",Political,0.7773159146308899
+32,Gaza,"“In Gaza and throughout the occupied territories, we are witnessing an unprecedented humanitarian crisis threatening to overwhelm an already suffering people.”",Humanitarian,0.8656800389289856
+32,Qatar,"Wednesday saw Qatar's representative, senior diplomat Mutlaq Al-Qahtani, lash out at Israel as he accused it of waging a “genocidal war” on Palestinians and weaponizing aid.",Political,0.7229166030883789
+32,Mutlaq Al-Qahtani,"Wednesday saw Qatar's representative, senior diplomat Mutlaq Al-Qahtani, lash out at Israel as he accused it of waging a “genocidal war” on Palestinians and weaponizing aid.",Political,0.7229166030883789
+32,Israel,"Wednesday saw Qatar's representative, senior diplomat Mutlaq Al-Qahtani, lash out at Israel as he accused it of waging a “genocidal war” on Palestinians and weaponizing aid.",Political,0.7229166030883789
+32,Israel,"For the past two months, Israel has imposed a blockade of humanitarian aid on the Gaza Strip, declaring it must do so to prevent the Palestinian militant group Hamas from stealing the aid.",Political,0.8500354290008545
+32,the Gaza Strip,"For the past two months, Israel has imposed a blockade of humanitarian aid on the Gaza Strip, declaring it must do so to prevent the Palestinian militant group Hamas from stealing the aid.",Humanitarian,0.904496729373932
+32,the Gaza Strip,"For the past two months, Israel has imposed a blockade of humanitarian aid on the Gaza Strip, declaring it must do so to prevent the Palestinian militant group Hamas from stealing the aid.",Political,0.8500354290008545
+32,the International Committee of the Red Cross,"On Friday, the International Committee of the Red Cross warned that the ability of aid workers to help Gazans was “on the verge of total collapse.”",Humanitarian,0.8470703363418579
+32,Israel,The group blamed Israel.,Political,0.8863485455513
+32,Greta Thunberg,The vessel was preparing to pick up Swedish climate and pro-Palestinian activist Greta Thunberg and others in Malta before leaving for Gaza.,Political,0.8333316445350647
+32,Gaza Freedom Flotilla,"In 2010, Israeli commandos attacked six humanitarian vessels, dubbed the “Gaza Freedom Flotilla,” as they approached Gaza with the aim of breaking a naval blockade imposed by Israel.",Humanitarian,0.8137613534927368
+32,Gaza,"In 2010, Israeli commandos attacked six humanitarian vessels, dubbed the “Gaza Freedom Flotilla,” as they approached Gaza with the aim of breaking a naval blockade imposed by Israel.",Humanitarian,0.8137613534927368
+32,Israel,Israel refused to take part in the proceedings and condemned the case as “part of the systematic persecution and delegitimization” of the country.,Political,0.8205036520957947
+32,Israel,American officials have supported Israel's decision to ban UNRWA.,Political,0.7300652861595154
+32,Gideon Saar,"As the hearings opened Monday, Israeli Foreign Minister Gideon Saar blasted the court as illegitimate.",Political,0.8346200585365295
+32,U.N.,"The U.N. estimates 500,000 Palestinians have been displaced since a two-month ceasefire ended in mid-March and Israel began blocking aid into Gaza, home to more than 2 million Palestinians.",Humanitarian,0.7142797708511353
+33,Melissa Garriga,"Melissa Garriga | melissa@codepink.org 
+CODEPINK condemns in the strongest possible terms the attack on the Gaza Freedom Flotilla late last night.",Political,0.8776487112045288
+33,CODEPINK,"Melissa Garriga | melissa@codepink.org 
+CODEPINK condemns in the strongest possible terms the attack on the Gaza Freedom Flotilla late last night.",Political,0.8776487112045288
+33,Israel,This act by Israel sends a message to the world: anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Political,0.8027463555335999
+33,Israel,This act by Israel sends a message to the world: anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such.,Military,0.7282140254974365
+33,Israel,"“Fifteen years ago this month, Israel launched a raid on the Gaza Freedom Flotilla – killing ten people on board, including an American.",Military,0.7189875841140747
+33,Danaka Katovich,"Danaka Katovich, National Co-Director of CODEPINK, continued, “Israel is sending a message to the world that if you try to interfere with their genocidal plan to starve the entire population in Gaza – you will be attacked.”",Political,0.960429072380066
+33,National Co-Director,"Danaka Katovich, National Co-Director of CODEPINK, continued, “Israel is sending a message to the world that if you try to interfere with their genocidal plan to starve the entire population in Gaza – you will be attacked.”",Political,0.960429072380066
+33,CODEPINK,"Danaka Katovich, National Co-Director of CODEPINK, continued, “Israel is sending a message to the world that if you try to interfere with their genocidal plan to starve the entire population in Gaza – you will be attacked.”",Political,0.960429072380066
+33,Gaza,"Danaka Katovich, National Co-Director of CODEPINK, continued, “Israel is sending a message to the world that if you try to interfere with their genocidal plan to starve the entire population in Gaza – you will be attacked.”",Political,0.960429072380066
+34,Gaza,An international NGO that intends to deliver humanitarian aid to Gaza by sea has said it was in talks with Malta’s government about allowing a vessel to enter Maltese waters to repair damage caused by a drone attack.,Humanitarian,0.9798700213432312
+34,Malta,A Malta government spokesman said its offer was to assist in repairs out at sea once the boat’s cargo was verified to be aid.,Humanitarian,0.8598757982254028
+34,Hamas,"Hamas issued a statement about the incident off Malta, accusing Israel of “piracy” and “state terrorism”.",Political,0.8972193002700806
+35,the Gaza Strip,A ship carrying humanitarian aid for the Gaza Strip sent out a distress signal overnight after it was bombed by drones in international waters near Malta.,Humanitarian,0.9915115833282472
+35,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, the organizer of the voyage, is blaming Israel for the attack, which set the ship on fire, punched a substantial breach in its hull and cut off communication with those aboard.",Political,0.9365154504776
+35,Israel,"The Freedom Flotilla Coalition, the organizer of the voyage, is blaming Israel for the attack, which set the ship on fire, punched a substantial breach in its hull and cut off communication with those aboard.",Political,0.9365154504776
+35,Greta Thunberg,The climate activist Greta Thunberg was also set to join the flotilla and said in an online video that activists would “continue to do everything in our power to do our part to demand a free Palestine and demand the opening of a humanitarian corridor.”,Political,0.7624123096466064
+35,Palestine,The climate activist Greta Thunberg was also set to join the flotilla and said in an online video that activists would “continue to do everything in our power to do our part to demand a free Palestine and demand the opening of a humanitarian corridor.”,Political,0.7624123096466064
+35,Ann Wright,Ann Wright added: “We’ve been sending ships to challenge the Israeli illegal naval blockade of Gaza since 2008.,Political,0.7958769202232361
+35,Gaza,Ann Wright added: “We’ve been sending ships to challenge the Israeli illegal naval blockade of Gaza since 2008.,Political,0.7958769202232361
+36,Freedom Flotilla,"Conscience, a Freedom Flotilla aid ship aiming to break Israel’s two-month siege on Gaza, was struck by drones off the coast of Malta in the early hours of Friday.",Humanitarian,0.9136179685592652
+36,Conscience,"Between coughs and emergency alarms, humanitarians aboard the Conscience ship show the fire and gaping hole left in the ship's hull by drones.",Humanitarian,0.9875206351280212
+36,Malta,"“Right here, we are in Malta dealing with a brutal attack on an innocent ship, a ship that was anchored or outside of territorial waters, waiting for us, the activists to come on board so that we could then head toward Gaza to say to the world, ‘Here are some citizens who are willing to take action where our government has failed to act.’",Political,0.8104729652404785
+36,Gaza,"“Right here, we are in Malta dealing with a brutal attack on an innocent ship, a ship that was anchored or outside of territorial waters, waiting for us, the activists to come on board so that we could then head toward Gaza to say to the world, ‘Here are some citizens who are willing to take action where our government has failed to act.’",Political,0.8104729652404785
+37,Gaza,"A ship carrying humanitarian aid and activists bound for Gaza was bombed by drones in international waters off Malta overnight Thursday to Friday, according to the Freedom Flotilla Coalition.",Humanitarian,0.9566713571548462
+37,the Freedom Flotilla Coalition,"A ship carrying humanitarian aid and activists bound for Gaza was bombed by drones in international waters off Malta overnight Thursday to Friday, according to the Freedom Flotilla Coalition.",Humanitarian,0.9566713571548462
+37,Israel,"Since March 2, Israel has blocked all humanitarian aid to Gaza as part of its effort to pressure Hamas into a new hostage deal.",Political,0.9663223028182985
+37,Gaza,"Since March 2, Israel has blocked all humanitarian aid to Gaza as part of its effort to pressure Hamas into a new hostage deal.",Political,0.9663223028182985
+37,Gaza,"Since March 2, Israel has blocked all humanitarian aid to Gaza as part of its effort to pressure Hamas into a new hostage deal.",Humanitarian,0.9146131277084352
+37,The Freedom Flotilla’s,The Freedom Flotilla’s current mission was aimed at breaking the Israeli blockade and delivering aid amid a deepening humanitarian crisis in Gaza.,Humanitarian,0.9497984051704408
+37,Gaza,The Freedom Flotilla’s current mission was aimed at breaking the Israeli blockade and delivering aid amid a deepening humanitarian crisis in Gaza.,Humanitarian,0.9497984051704408
+38,FFC,"The “Conscience,” the vessel the Freedom Flotilla Coalition (FFC) group was aboard, was carrying 18 people.",Political,0.8201119303703308
+38,Gaza,"The group sought to bring desperately-needed aid to Gaza, as Israel maintains its two-month-long siege of Gaza, leaving 2 million people at risk of starvation.",Humanitarian,0.8375392556190491
+38,Gaza,"The group sought to bring desperately-needed aid to Gaza, as Israel maintains its two-month-long siege of Gaza, leaving 2 million people at risk of starvation.",Humanitarian,0.8375392556190491
+38,Israel Katz,"Two months ago, Israeli Defense Minister Israel Katz issued a directive instructing the Israeli military “to allow the protest flotillas to reach the Gaza coast, disembark the protesters in Gaza, and seize the ships and transfer them to the port of Ashdod so that they can be used to evacuate Gaza residents who are interested in leaving Gaza,” his office said in a statement.",Political,0.9341007471084596
+38,Gaza,"Two months ago, Israeli Defense Minister Israel Katz issued a directive instructing the Israeli military “to allow the protest flotillas to reach the Gaza coast, disembark the protesters in Gaza, and seize the ships and transfer them to the port of Ashdod so that they can be used to evacuate Gaza residents who are interested in leaving Gaza,” his office said in a statement.",Political,0.9341007471084596
+38,Gaza,"Two months ago, Israeli Defense Minister Israel Katz issued a directive instructing the Israeli military “to allow the protest flotillas to reach the Gaza coast, disembark the protesters in Gaza, and seize the ships and transfer them to the port of Ashdod so that they can be used to evacuate Gaza residents who are interested in leaving Gaza,” his office said in a statement.",Political,0.9341007471084596
+38,Gaza,"Two months ago, Israeli Defense Minister Israel Katz issued a directive instructing the Israeli military “to allow the protest flotillas to reach the Gaza coast, disembark the protesters in Gaza, and seize the ships and transfer them to the port of Ashdod so that they can be used to evacuate Gaza residents who are interested in leaving Gaza,” his office said in a statement.",Political,0.9341007471084596
+38,Gaza,"Two months ago, Israeli Defense Minister Israel Katz issued a directive instructing the Israeli military “to allow the protest flotillas to reach the Gaza coast, disembark the protesters in Gaza, and seize the ships and transfer them to the port of Ashdod so that they can be used to evacuate Gaza residents who are interested in leaving Gaza,” his office said in a statement.",Political,0.9341007471084596
+38,the Turkish Foundation for Human Rights,The flotilla was organized by the Free Gaza Movement and the Turkish Foundation for Human Rights and Freedoms and Humanitarian Relief.,Humanitarian,0.962990403175354
+38,Obama,"In the aftermath of the attack, the Obama administration blocked efforts at the UN Security Council for an international inquiry into the incident, instead vying for a ""prompt, impartial, credible and transparent investigation” led by Israel.",Political,0.8746404051780701
+38,Joe Biden,"Then-Vice President Joe Biden, meanwhile, sought to actively defend the raid.",Political,0.83826744556427
+38,Chuck Schumer,"Also at the time, Democratic Chuck Schumer joined 86 other senators to affirm Israel’s right to defend itself, assert that Israel’s blockade is legal, condemn the United Nations Human Rights Council “which, once again, singled out Israel,” and claim that Israel “made every effort to ensure that the humanitarian aid reached Gaza without needlessly precipitating a confrontation,” and only attacked the ship after being attacked (Israeli soldiers were only resisted because they raided the ships and shot at them before doing so).",Political,0.9583154916763306
+38,Israel,"Also at the time, Democratic Chuck Schumer joined 86 other senators to affirm Israel’s right to defend itself, assert that Israel’s blockade is legal, condemn the United Nations Human Rights Council “which, once again, singled out Israel,” and claim that Israel “made every effort to ensure that the humanitarian aid reached Gaza without needlessly precipitating a confrontation,” and only attacked the ship after being attacked (Israeli soldiers were only resisted because they raided the ships and shot at them before doing so).",Political,0.9583154916763306
+38,Israel,"Also at the time, Democratic Chuck Schumer joined 86 other senators to affirm Israel’s right to defend itself, assert that Israel’s blockade is legal, condemn the United Nations Human Rights Council “which, once again, singled out Israel,” and claim that Israel “made every effort to ensure that the humanitarian aid reached Gaza without needlessly precipitating a confrontation,” and only attacked the ship after being attacked (Israeli soldiers were only resisted because they raided the ships and shot at them before doing so).",Political,0.9583154916763306
+38,Israel,"Also at the time, Democratic Chuck Schumer joined 86 other senators to affirm Israel’s right to defend itself, assert that Israel’s blockade is legal, condemn the United Nations Human Rights Council “which, once again, singled out Israel,” and claim that Israel “made every effort to ensure that the humanitarian aid reached Gaza without needlessly precipitating a confrontation,” and only attacked the ship after being attacked (Israeli soldiers were only resisted because they raided the ships and shot at them before doing so).",Political,0.9583154916763306
+38,Israel,"Also at the time, Democratic Chuck Schumer joined 86 other senators to affirm Israel’s right to defend itself, assert that Israel’s blockade is legal, condemn the United Nations Human Rights Council “which, once again, singled out Israel,” and claim that Israel “made every effort to ensure that the humanitarian aid reached Gaza without needlessly precipitating a confrontation,” and only attacked the ship after being attacked (Israeli soldiers were only resisted because they raided the ships and shot at them before doing so).",Political,0.9583154916763306
+38,Gaza,"Also at the time, Democratic Chuck Schumer joined 86 other senators to affirm Israel’s right to defend itself, assert that Israel’s blockade is legal, condemn the United Nations Human Rights Council “which, once again, singled out Israel,” and claim that Israel “made every effort to ensure that the humanitarian aid reached Gaza without needlessly precipitating a confrontation,” and only attacked the ship after being attacked (Israeli soldiers were only resisted because they raided the ships and shot at them before doing so).",Political,0.9583154916763306
+39,Gaza,"Amid a humanitarian catastrophe in Gaza, in which virtually all aid has run dry, the ship, Conscience, was organized by the Freedom Flotilla Coalition (FFC), an international NGO.",Humanitarian,0.963119089603424
+39,Conscience,"Amid a humanitarian catastrophe in Gaza, in which virtually all aid has run dry, the ship, Conscience, was organized by the Freedom Flotilla Coalition (FFC), an international NGO.",Humanitarian,0.963119089603424
+39,the Freedom Flotilla Coalition,"Amid a humanitarian catastrophe in Gaza, in which virtually all aid has run dry, the ship, Conscience, was organized by the Freedom Flotilla Coalition (FFC), an international NGO.",Humanitarian,0.963119089603424
+39,FFC,"Amid a humanitarian catastrophe in Gaza, in which virtually all aid has run dry, the ship, Conscience, was organized by the Freedom Flotilla Coalition (FFC), an international NGO.",Humanitarian,0.963119089603424
+39,Trevor Ball,"“Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.”",Military,0.8051056265830994
+39,US Army,"“Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.”",Military,0.8051056265830994
+39,Thunberg,"Speaking to Reuters Friday, Thunberg said, “I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza” She denounced the “systematic starvation of two million people.”",Humanitarian,0.8921735286712646
+39,Gaza,"Speaking to Reuters Friday, Thunberg said, “I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza” She denounced the “systematic starvation of two million people.”",Humanitarian,0.8921735286712646
+39,Gaza,"Speaking to Reuters Friday, Thunberg said, “I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza” She denounced the “systematic starvation of two million people.”",Humanitarian,0.8921735286712646
+39,the Israel Defense Forces,Evidence emerged over the weekend suggesting a highly planned operation of the type which is standard fare for the Israel Defense Forces.,Military,0.9906572699546814
+39,Israel,"Numerous media outlets, including in Israel, repeated a CNN report noting flight-tracking data showing an Israeli Air Force C-139 Hercules leaving Israel early Thursday afternoon and travelling to Malta.",Military,0.7961976528167725
+39,Israel,"Numerous media outlets, including in Israel, repeated a CNN report noting flight-tracking data showing an Israeli Air Force C-139 Hercules leaving Israel early Thursday afternoon and travelling to Malta.",Military,0.7961976528167725
+39,Israel,"Israel appears to have flown an unauthorised military aircraft over Malta, an EU state and in breach of our neutrality.”",Political,0.9681476354599
+39,Israel,"Israel appears to have flown an unauthorised military aircraft over Malta, an EU state and in breach of our neutrality.”",Military,0.9049234986305236
+39,IDF’s Shayetet,"This operation involved naval commandos from the IDF’s Shayetet 13 unit boarding the Turkish humanitarian ship Mavi Marmara, killing 10 aboard and wounding 30 others.",Military,0.9648329615592957
+39,Freedom Flotilla,"On Saturday, one of the members of the Freedom Flotilla steering committee made a speech outside the Maltese Parliament calling for protests on the island and at embassies in Europe.",Political,0.9236398935317992
+39,Maltese Parliament,"On Saturday, one of the members of the Freedom Flotilla steering committee made a speech outside the Maltese Parliament calling for protests on the island and at embassies in Europe.",Political,0.8236398935317992
+39,Yazan,"The representative, Yazan, demanded “safe passage, protection and immediate humanitarian relief for those on board.”",Humanitarian,0.958229660987854
+39,the Freedom Flotilla,"The Maltese Times reported of the speech: “He said that earlier that day, members of the Freedom Flotilla took boats from Malta and tried to reach the Conscience with aid.",Humanitarian,0.7295858860015869
+39,the Armed Forces of Malta,‘But they were intercepted by the Armed Forces of Malta and forced to turn back under threat of arrest.’”,Military,0.9814510941505432
+39,Tighe Barry,"According to the Times of Israel, “Tighe Barry, an activist with anti-war group Codepink, told the Associated Press that the Pacific island nation of Palau, which has warm ties with Israel, revoked its flag from the Conscience prior to the alleged attack.”",Political,0.9127780199050904
+39,Codepink,"According to the Times of Israel, “Tighe Barry, an activist with anti-war group Codepink, told the Associated Press that the Pacific island nation of Palau, which has warm ties with Israel, revoked its flag from the Conscience prior to the alleged attack.”",Political,0.9127780199050904
+39,Palau,"According to the Times of Israel, “Tighe Barry, an activist with anti-war group Codepink, told the Associated Press that the Pacific island nation of Palau, which has warm ties with Israel, revoked its flag from the Conscience prior to the alleged attack.”",Political,0.9127780199050904
+39,Conscience,"According to the Times of Israel, “Tighe Barry, an activist with anti-war group Codepink, told the Associated Press that the Pacific island nation of Palau, which has warm ties with Israel, revoked its flag from the Conscience prior to the alleged attack.”",Political,0.9127780199050904
+40,Tighe Barry,"Tighe Barry of Codepink said Maltese authorities blocked support boats from reaching the *Conscience*, although one activist managed to board.",Political,0.9129493832588196
+40,Codepink,"Tighe Barry of Codepink said Maltese authorities blocked support boats from reaching the *Conscience*, although one activist managed to board.",Political,0.9129493832588196
+40,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition described the mission as a nonviolent effort to challenge Israel’s blockade of Gaza and denied any ties to Hamas, although Saudi Al Arabiya cited an unnamed security source alleging the ship was Hamas-affiliated.",Political,0.7783581018447876
+40,Gaza,"The Freedom Flotilla Coalition described the mission as a nonviolent effort to challenge Israel’s blockade of Gaza and denied any ties to Hamas, although Saudi Al Arabiya cited an unnamed security source alleging the ship was Hamas-affiliated.",Political,0.7783581018447876
+40,Israel,"The incident follows Israel’s shutdown of humanitarian aid to Gaza on March 2, part of pressure tactics against Hamas after a ceasefire expired.",Political,0.892754852771759
+40,Gaza,"The incident follows Israel’s shutdown of humanitarian aid to Gaza on March 2, part of pressure tactics against Hamas after a ceasefire expired.",Political,0.892754852771759
+40,Gaza,"The incident follows Israel’s shutdown of humanitarian aid to Gaza on March 2, part of pressure tactics against Hamas after a ceasefire expired.",Humanitarian,0.8730677962303162
+40,Israel,Israel resumed military operations on March 18 and claims to have killed thousands of militants.,Military,0.9109628796577454
+41,Freedom Flotilla,Drones struck a Freedom Flotilla ship carrying aid bound for Gaza.,Humanitarian,0.9000756144523621
+41,Conscience,"Drones struck the Conscience, a ship carrying humanitarian aid in international waters, after more than two months of an Israeli blockade on all aid trying to enter Gaza.",Humanitarian,0.9894319176673888
+42,Gaza,"A civilian ship carrying humanitarian aid for Gaza was targeted in a drone attack early Friday while sailing in international waters near the island of Malta, the Freedom Flotilla Coalition said in a statement.",Humanitarian,0.9869464039802552
+42,the Freedom Flotilla Coalition,"A civilian ship carrying humanitarian aid for Gaza was targeted in a drone attack early Friday while sailing in international waters near the island of Malta, the Freedom Flotilla Coalition said in a statement.",Humanitarian,0.9869464039802552
+42,SOS,The coalition said “the Maltese government has not yet responded to the SOS signal from this civilian humanitarian vessel.”,Humanitarian,0.9901055097579956
+42,Gaza,The flotilla was reportedly en route to Gaza carrying humanitarian aid in a bid to challenge the Israeli blockade.,Humanitarian,0.9753397107124328
+43,CNN,CNN Sans ™ & © 2016 Cable News Network.,Neutral,0.8736751079559326
+44,Gaza,"The coalition also reiterated its demand to end the blockade of Gaza, where conditions are rapidly deteriorating.",Political,0.7225161790847778
+44,Gaza,"Aid agencies say Gaza requires at least 600 truckloads of aid daily, but none have entered for two months due to Israel's restrictions.",Humanitarian,0.8870278596878052
+45,Israel,"Israel appears to be using more precise, deniable methods now, including advanced drones that can operate at long range without detection by civilian radar.",Military,0.7766981720924377
+45,Israel,"If Israel is indeed responsible, the action reflects a strategic shift toward preventing flotilla missions before they reach Gazan waters, leveraging deniable drone strikes rather than direct naval interceptions.",Military,0.7863786816596985
+46,Conscience—12,"All 16 people aboard the Gaza-bound aid ship Conscience—12 crew members and 4 civilian passengers—are safe after the vessel was struck by drones in international waters near Malta, the Maltese government confirmed.",Humanitarian,0.9731566309928894
+46,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, composed of 12 rights groups, organized the humanitarian mission to Gaza and claimed the ship was hit twice at the bow, causing a fire and hull breach.",Humanitarian,0.9590525031089784
+46,Gaza,"The Freedom Flotilla Coalition, composed of 12 rights groups, organized the humanitarian mission to Gaza and claimed the ship was hit twice at the bow, causing a fire and hull breach.",Humanitarian,0.9590525031089784
+47,UN,"‘Intervene Appropriately’ – Albanese
+UN Special Rapporteur Francesca Albanese posted on X soon after the attack that she had received “a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.9236737489700316
+47,Gaza,"‘Intervene Appropriately’ – Albanese
+UN Special Rapporteur Francesca Albanese posted on X soon after the attack that she had received “a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.9236737489700316
+47,Codepink,"‘Israel Blatantly Violating Int Law’ – Codepink
+Activist group, Codepink, condemned “in the strongest possible terms” the attack on the ship in which one of its board members and retired US Army Colonel, Ann Wright, was on board.",Political,0.8767370581626892
+47,Israel,"This act by Israel sends a message to the world: anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such,” the statement added.",Military,0.8270140886306763
+47,Israel,"This act by Israel sends a message to the world: anyone who tries to bring aid to the people of Gaza is a military target and will be treated as such,” the statement added.",Political,0.7608867287635803
+47,Australia,"‘Condemn This Act’ – Free Gaza Australia
+The Free Gaza Australia group called “on every State, every union of States, every people and every principled institution globally to rise and condemn this act and to support the rebuilding and sailing of the Flotilla at the earliest time possible.”",Political,0.9130163788795472
+47,The Free Gaza Australia,"‘Condemn This Act’ – Free Gaza Australia
+The Free Gaza Australia group called “on every State, every union of States, every people and every principled institution globally to rise and condemn this act and to support the rebuilding and sailing of the Flotilla at the earliest time possible.”",Political,0.9130163788795472
+47,State,"‘Condemn This Act’ – Free Gaza Australia
+The Free Gaza Australia group called “on every State, every union of States, every people and every principled institution globally to rise and condemn this act and to support the rebuilding and sailing of the Flotilla at the earliest time possible.”",Political,0.9130163788795472
+47,States,"‘Condemn This Act’ – Free Gaza Australia
+The Free Gaza Australia group called “on every State, every union of States, every people and every principled institution globally to rise and condemn this act and to support the rebuilding and sailing of the Flotilla at the earliest time possible.”",Political,0.9130163788795472
+47,Nicolene Jones,Actress Nicolene Jones posted a video to her X account in which fellow activists and supporters can be seen approaching the targeted ship.,Political,0.9139668941497804
+47,Israeli Air Force,"Israeli Air Force Hercules ‘Spotted’
+The Quds News Network (QNN) shared footage that showed the aftermath of the Israeli attack on the vessel.",Military,0.9097102284431458
+47,QNN,"Israeli Air Force Hercules ‘Spotted’
+The Quds News Network (QNN) shared footage that showed the aftermath of the Israeli attack on the vessel.",Military,0.9097102284431458
+47,David Adler,"David Adler, Co-General Coordinator of the Progressive International movement said on X: “If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe.",Political,0.9221097826957704
+47,Co-General Coordinator of Progressive International,"David Adler, Co-General Coordinator of the Progressive International movement said on X: “If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe.",Political,0.9221097826957704
+47,Progressive International,"David Adler, Co-General Coordinator of the Progressive International movement said on X: “If Israel can get away with this — executing a lethal drone strike on aid workers thousands of kilometers from its borders in international waters — then no ally of Palestine, anywhere, is safe.",Political,0.9221097826957704
+47,Flotilla,"The Flotilla strike was an attack on solidarity itself.”
+
+Not the First Attack
+Friday’s attack “wouldn’t be the first time Israel attacked a flotilla carrying humanitarian aid,” Codepink said.",Humanitarian,0.8014241456985474
+47,Israel,"“Fifteen years ago this month, Israel launched a raid on the Gaza Freedom Flotilla – killing ten people on board, including an American.",Military,0.7189875841140747
+47,Katovich,"“Israel is sending a message to the world that if you try to interfere with their genocidal plan to starve the entire population in Gaza – you will be attacked,” Katovich added.",Political,0.9426811933517456
+48,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+48,FFC,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+48,The Armed Forces of Malta,The Armed Forces of Malta confirmed there was a fire on a ship that was later extinguished.,Military,0.9668056964874268
+48,Malta,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+48,FFC,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+48,the Maritime Squadron of the Armed Forces of Malta,"When asked by CNN for comment, the Maritime Squadron of the Armed Forces of Malta said the vessel and the crew are secure, and that the ship remains outside territorial waters and is being monitored by authorities.",Security,0.955386519432068
+48,Israel,"Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Military,0.8324438333511353
+48,Israel,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+48,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Humanitarian,0.8445852994918823
+48,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+48,the Occupied Palestinian Territories,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+48,Gaza,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+48,Israel,"The group pointed the finger of blame at Israel, without providing evidence.",Political,0.8781840205192566
+48,An Israeli Air Force C-130 Hercules,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+48,Israel,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+48,Trevor Ball,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+48,US Army,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+49,Israel,Israel Is Attacking Aid Ships to Gaza —,Military,0.9316037893295288
+49,Israel,Israel Is Attacking Aid Ships to Gaza —,Political,0.9261490702629088
+49,Gaza,Israel Is Attacking Aid Ships to Gaza —,Political,0.9261490702629088
+49,Seraj Assi,"Again
+By Seraj Assi
+
+What does it say about the state of Israel and its backers that it can get away with repeated attacks on aid shipments to Palestinian civilians?",Political,0.9021971225738524
+49,US Army,"(Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.)",Military,0.7733548283576965
+49,the International Committee of the Red Cross,"On Friday, the International Committee of the Red Cross (ICRC) released a report warning that the humanitarian response in Gaza is “on the verge of total collapse.”",Humanitarian,0.8951141834259033
+49,ICRC,"On Friday, the International Committee of the Red Cross (ICRC) released a report warning that the humanitarian response in Gaza is “on the verge of total collapse.”",Humanitarian,0.8951141834259033
+49,Gaza,"On Friday, the International Committee of the Red Cross (ICRC) released a report warning that the humanitarian response in Gaza is “on the verge of total collapse.”",Humanitarian,0.8951141834259033
+49,Gaza,"“On board are international human rights activists on a nonviolent humanitarian mission to challenge Israel’s illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid,” the group has said in a statement.",Humanitarian,0.9471468329429626
+49,Thunberg,"Speaking to Reuters from Malta, Thunberg said the aid ship was “one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” where “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of two million people.”",Humanitarian,0.8924410343170166
+49,the United Nations Special Rapporteur,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on social media that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.8070424199104309
+49,the Occupied Palestinian Territories,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on social media that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.8070424199104309
+49,Gaza,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on social media that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.8070424199104309
+49,State Department,"Meanwhile, a State Department lawyer told the International Court of Justice this week that Israel “has no duty” to allow UN aid into Gaza, and that the United States fully backs Israel’s United Nations Relief and Works Agency ban.",Political,0.7644667625427246
+49,the United States,"Meanwhile, a State Department lawyer told the International Court of Justice this week that Israel “has no duty” to allow UN aid into Gaza, and that the United States fully backs Israel’s United Nations Relief and Works Agency ban.",Political,0.7644667625427246
+49,Gaza,The ships were carrying humanitarian supplies for Gaza and boarded with civilians acting in solidarity with besieged Palestinians.,Humanitarian,0.9914700388908386
+49,Joe Biden,"Despite the global outrage sparked by the attack, then vice president Joe Biden then took the lead in defending Israel’s attack on the humanitarian aid convoy, describing the deadly raid as “legitimate,” applauding Israel’s right to besiege Palestinians in Gaza, and shifting the blame to the victims.",Political,0.9609643220901488
+49,Israel,"Despite the global outrage sparked by the attack, then vice president Joe Biden then took the lead in defending Israel’s attack on the humanitarian aid convoy, describing the deadly raid as “legitimate,” applauding Israel’s right to besiege Palestinians in Gaza, and shifting the blame to the victims.",Political,0.9609643220901488
+49,Israel,"Despite the global outrage sparked by the attack, then vice president Joe Biden then took the lead in defending Israel’s attack on the humanitarian aid convoy, describing the deadly raid as “legitimate,” applauding Israel’s right to besiege Palestinians in Gaza, and shifting the blame to the victims.",Political,0.9609643220901488
+49,Gaza,"Despite the global outrage sparked by the attack, then vice president Joe Biden then took the lead in defending Israel’s attack on the humanitarian aid convoy, describing the deadly raid as “legitimate,” applauding Israel’s right to besiege Palestinians in Gaza, and shifting the blame to the victims.",Political,0.9609643220901488
+50,The Freedom Flotilla Coalition,The Freedom Flotilla Coalition accused Israel of attacking its ship.,Political,0.7760929465293884
+50,Israel,"Israel says it is an attempt to pressure the militant group to release hostages it took during the Oct. 7, 2023, attack that triggered the conflict.",Political,0.903173804283142
+50,Israel,Israel's bombardment and ground operations have destroyed vast areas of the territory and left most of its population homeless.,Military,0.7742118835449219
+50,Gaza,The incident comes as aid groups have warned that the humanitarian response in Gaza is on the verge of collapse.,Humanitarian,0.9566340446472168
+50,The International Committee of the Red Cross,"The International Committee of the Red Cross said Friday it will not have access to food, medicine, and life-saving supplies needed for many of its Gaza programs if aid deliveries don't resume immediately.",Humanitarian,0.8978766798973083
+50,Gaza,"The International Committee of the Red Cross said Friday it will not have access to food, medicine, and life-saving supplies needed for many of its Gaza programs if aid deliveries don't resume immediately.",Humanitarian,0.8978766798973083
+50,Gaza,"""Without immediate action, Gaza will descend further into chaos that humanitarian efforts will not be able to mitigate.",Humanitarian,0.9112326502799988
+51,Gaza,"A ship carrying humanitarian aid and activists for Gaza was bombed by drones in international waters off Malta early on Friday, its organisers said, alleging that Israel was to blame.",Humanitarian,0.9809085726737976
+51,Thunberg,"Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Gaza, which is under blockade and bombardment by Israel.",Political,0.8739177584648132
+51,Malta,"Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Gaza, which is under blockade and bombardment by Israel.",Political,0.8739177584648132
+51,the Freedom Flotilla's,"Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Gaza, which is under blockade and bombardment by Israel.",Political,0.8739177584648132
+51,the Freedom Flotilla's,"Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Gaza, which is under blockade and bombardment by Israel.",Humanitarian,0.7439433932304382
+51,Gaza,"Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Gaza, which is under blockade and bombardment by Israel.",Political,0.8739177584648132
+51,Conscience,"The NGO published video footage, filmed in darkness, showing a fire on one of its ships, the Conscience.",Humanitarian,0.8665735125541687
+51,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" she said.",Humanitarian,0.9403745532035828
+51,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" she said.",Humanitarian,0.9403745532035828
+51,Hamas,"Hamas issued a statement about the incident off Malta, accusing Israel of ""piracy"" and ""state terrorism"".",Political,0.8824065327644348
+52,Hamas,"Anti-Israel activists claim drones hit Hamas-linked ship near Malta
+The passengers of the vessel, which was reportedly heading for Gaza, refused to be taken ashore after the alleged UAV attacks.",Political,0.9561833143234252
+52,UAV,"Anti-Israel activists claim drones hit Hamas-linked ship near Malta
+The passengers of the vessel, which was reportedly heading for Gaza, refused to be taken ashore after the alleged UAV attacks.",Political,0.9561833143234252
+52,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, which includes anti-Israel and Islamic NGOs linked to Hamas, stated some four months ago that “in 2025, we are determined to take to the seas to break the siege of Gaza.”",Political,0.7342512607574463
+52,Hamas,"The Freedom Flotilla Coalition, which includes anti-Israel and Islamic NGOs linked to Hamas, stated some four months ago that “in 2025, we are determined to take to the seas to break the siege of Gaza.”",Political,0.7342512607574463
+52,Gaza,"The Freedom Flotilla Coalition, which includes anti-Israel and Islamic NGOs linked to Hamas, stated some four months ago that “in 2025, we are determined to take to the seas to break the siege of Gaza.”",Political,0.7342512607574463
+52,the Humanitarian Relief Foundation,"The umbrella group includes several Turkish NGOs, among them the Humanitarian Relief Foundation and the Mavi Marmara Association, responsible for the 2010 Mavi Marmara incident, in which nine activists were killed after they attacked Israeli naval commandos.",Humanitarian,0.739620566368103
+53,Gaza,"All on board Gaza Freedom Flotilla safe after attack, Maltese government says
+Story by The National • Live updates: Follow the latest on Israel-Gaza
+
+All the people on board a Gaza aid flotilla are safe after the vessel was hit by drones in international waters off Malta in the early hours of Friday.",Humanitarian,0.9799045920372008
+53,Freedom Flotilla,"All on board Gaza Freedom Flotilla safe after attack, Maltese government says
+Story by The National • Live updates: Follow the latest on Israel-Gaza
+
+All the people on board a Gaza aid flotilla are safe after the vessel was hit by drones in international waters off Malta in the early hours of Friday.",Humanitarian,0.9799045920372008
+53,Gaza,"All on board Gaza Freedom Flotilla safe after attack, Maltese government says
+Story by The National • Live updates: Follow the latest on Israel-Gaza
+
+All the people on board a Gaza aid flotilla are safe after the vessel was hit by drones in international waters off Malta in the early hours of Friday.",Humanitarian,0.9799045920372008
+53,Gaza,"""
+
+The humanitarian operation was organised by a coalition of 12 rights groups who aim to deliver aid to Gaza.",Humanitarian,0.92563796043396
+53,Gaza,The flotilla's press officer told CNN that 30 people were on board the ship carrying aid to Gaza.,Humanitarian,0.8292360901832581
+54,Freedom Flotilla,"The attack comes as a food crisis in Gaza is worsening due to Israel’s total siege and closure of all border crossings 
+An Israeli drone bombed a Freedom Flotilla aid vessel that was en route to Gaza early on 2 May, blowing a hole through the ship, causing a fire, and putting it at risk of sinking.",Humanitarian,0.8046044111251831
+55,Gaza,"A ship carrying humanitarian aid and activists for Gaza has been bombed by drones and disabled while in international waters off Malta as it headed towards the Palestinian territory, its organisers said.",Humanitarian,0.9633564949035645
+55,Gaza,Gaza humanitarian aid ship bombed by drones in waters off Malta,Humanitarian,0.9912298321723938
+56,Conscience,"The vessel Conscience, organized by the Freedom Flotilla Coalition, caught fire after reportedly being bombed by drones early Friday while carrying humanitarian aid to Gaza.",Humanitarian,0.9389559626579284
+56,the Freedom Flotilla Coalition,"The vessel Conscience, organized by the Freedom Flotilla Coalition, caught fire after reportedly being bombed by drones early Friday while carrying humanitarian aid to Gaza.",Humanitarian,0.9389559626579284
+56,Hamas,The Palestinian group Hamas similarly accused Israel and appealed to the UN Security Council to act against Israeli “violations.”,Political,0.7669539451599121
+56,Al-Kheetan,"Al-Kheetan also pointed to the deepening humanitarian crisis in Gaza, saying restrictions on movement and the flow of goods have severely affected the population for more than 17 years.",Humanitarian,0.8734287023544312
+56,Gaza,"Al-Kheetan also pointed to the deepening humanitarian crisis in Gaza, saying restrictions on movement and the flow of goods have severely affected the population for more than 17 years.",Humanitarian,0.8734287023544312
+57,Gaza,"An international NGO accused Malta on Sunday of impeding access to a Gaza-bound humanitarian aid ship which it says was bombed by two drones two days before, and Malta denied the claim, saying the crew had refused assistance.",Humanitarian,0.9116862416267396
+57,Gaza,It had been waiting to take on board some 30 peace activists from around the world before trying to sail to Gaza at the eastern end of the Mediterranean to deliver food and medicines.,Humanitarian,0.9462454319000244
+57,Conscience,"""The humanitarian ship Conscience has been blocked in international waters since it was attacked by two drones in the early morning of May 2,"" the coalition said in a statement.",Humanitarian,0.9246776700019836
+57,Malta,"Prime Minister Robert Abela said Malta was continuing to offer assistance to the ship, but that Malta's security needed to be safeguarded.",Security,0.9925122261047364
+57,Malta,"Prime Minister Robert Abela said Malta was continuing to offer assistance to the ship, but that Malta's security needed to be safeguarded.",Security,0.9925122261047364
+57,Malta,Malta has had a consistent policy of supporting Palestinian causes and last month admitted a number of injured Gaza children for medical treatment.,Humanitarian,0.9731308221817015
+57,Hamas,"Hamas issued a statement about the incident off Malta, accusing Israel of ""piracy"" and ""state terrorism.""",Political,0.8847689032554626
+58,the Freedom Flotilla,A ship sailing as part of the Freedom Flotilla carrying aid to Gaza was attacked by a suspected Israeli drone on Friday.,Humanitarian,0.8537198901176453
+58,Israel,"""While we can not confirm 100%, we suspect it's Israel,"" Hay Sha Wiya said, calling the country ""the primary entity interested in keep[ing] us and any aid out of Gaza.""
+
+Anti-war organization CODEPINK, whose board member Ann Wright is part of the mission, also issued a statement ""strongly"" condemning the attack and urging an end to Israel's destruction of Gaza.",Political,0.7465149760246277
+58,Gaza,"""While we can not confirm 100%, we suspect it's Israel,"" Hay Sha Wiya said, calling the country ""the primary entity interested in keep[ing] us and any aid out of Gaza.""
+
+Anti-war organization CODEPINK, whose board member Ann Wright is part of the mission, also issued a statement ""strongly"" condemning the attack and urging an end to Israel's destruction of Gaza.",Political,0.7465149760246277
+58,CODEPINK,"""While we can not confirm 100%, we suspect it's Israel,"" Hay Sha Wiya said, calling the country ""the primary entity interested in keep[ing] us and any aid out of Gaza.""
+
+Anti-war organization CODEPINK, whose board member Ann Wright is part of the mission, also issued a statement ""strongly"" condemning the attack and urging an end to Israel's destruction of Gaza.",Political,0.7465149760246277
+58,Ann Wright,"""While we can not confirm 100%, we suspect it's Israel,"" Hay Sha Wiya said, calling the country ""the primary entity interested in keep[ing] us and any aid out of Gaza.""
+
+Anti-war organization CODEPINK, whose board member Ann Wright is part of the mission, also issued a statement ""strongly"" condemning the attack and urging an end to Israel's destruction of Gaza.",Political,0.7465149760246277
+58,Israel,"""While we can not confirm 100%, we suspect it's Israel,"" Hay Sha Wiya said, calling the country ""the primary entity interested in keep[ing] us and any aid out of Gaza.""
+
+Anti-war organization CODEPINK, whose board member Ann Wright is part of the mission, also issued a statement ""strongly"" condemning the attack and urging an end to Israel's destruction of Gaza.",Political,0.7465149760246277
+58,Gaza,"""While we can not confirm 100%, we suspect it's Israel,"" Hay Sha Wiya said, calling the country ""the primary entity interested in keep[ing] us and any aid out of Gaza.""
+
+Anti-war organization CODEPINK, whose board member Ann Wright is part of the mission, also issued a statement ""strongly"" condemning the attack and urging an end to Israel's destruction of Gaza.",Political,0.7465149760246277
+58,The International Committee of the Red Cross,"The International Committee of the Red Cross warned Friday that the humanitarian response in Gaza was on the ""verge of total collapse"" after two months of Israel blocking aid to the territory.",Humanitarian,0.9203638434410096
+58,Gaza,"The International Committee of the Red Cross warned Friday that the humanitarian response in Gaza was on the ""verge of total collapse"" after two months of Israel blocking aid to the territory.",Humanitarian,0.9203638434410096
+59,Gaza,"Sources aboard the “Freedom Flotilla” ship, which aims to break the siege of Gaza, said that the Israeli attack on the ship led to a fire.",Political,0.7639767527580261
+59,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, which campaigns to end the Israeli blockade of Gaza, told CNN that 30 people were aboard its ship carrying humanitarian aid when the attack occurred shortly after midnight.",Humanitarian,0.9494003057479858
+59,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition describes itself on its website as an international network of pro-Palestinian activists working to end the Israeli blockade of Gaza and provide humanitarian aid to the besieged enclave through direct, nonviolent action.",Humanitarian,0.8756935596466064
+61,Thunberg,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Political,0.9072545766830444
+61,the Freedom Flotilla Coalition,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Political,0.9072545766830444
+61,the Freedom Flotilla Coalition,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Humanitarian,0.8317977786064148
+61,FFC,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Political,0.9072545766830444
+61,FFC,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Humanitarian,0.8317977786064148
+61,Gaza,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Political,0.9072545766830444
+61,Gaza,"In the video, Thunberg stated that she had planned to board the ship in a mission with the Freedom Flotilla Coalition (FFC) to “end the siege and open a humanitarian blockade” in Gaza.",Humanitarian,0.8317977786064148
+61,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" she said.",Humanitarian,0.9403745532035828
+61,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" she said.",Humanitarian,0.9403745532035828
+62,Conscience,"The group that organized the mission said Conscience, the humanitarian aid ship bound for Gaza with 16 people on board, came under a drone attack in international waters off Malta on Friday.",Humanitarian,0.9801708459854126
+63,the “Freedom Flotilla,A humanitarian vessel affiliated with the “Freedom Flotilla” heading to deliver humanitarian supplies to Gaza was attacked by an Israeli drone in international waters off the coast of Malta early Friday.,Humanitarian,0.9795315861701964
+63,Gaza,A humanitarian vessel affiliated with the “Freedom Flotilla” heading to deliver humanitarian supplies to Gaza was attacked by an Israeli drone in international waters off the coast of Malta early Friday.,Humanitarian,0.9795315861701964
+63,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, which campaigns against Israel’s blockade of Gaza, told CNN that 30 people were aboard the ship carrying humanitarian aid when the attack occurred shortly after midnight local time.",Humanitarian,0.9224699139595032
+63,Tunisia,"According to the network, the ship, named “Conscience,” had departed from Tunisia with 30 international human rights activists and humanitarian supplies on board and was targeted in international waters near Malta.",Humanitarian,0.8523460030555725
+63,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition is an international network of pro-Palestinian human rights activists working to end Israel’s deadly blockade of Gaza and deliver humanitarian aid through direct, nonviolent action.",Humanitarian,0.9098894596099854
+64,the Freedom Flotilla Coalition,"Malta's PM: 'Before vessel is allowed into Malta, we need to be in control'
+A humanitarian aid ship bound for the Gaza Strip, and operated by the Freedom Flotilla Coalition, has been floating off the island of Malta since Friday morning, after its motor was allegedly struck and destroyed by Israeli drones.",Humanitarian,0.986843764781952
+64,CNN,"According to a report first published by CNN, a flight tracking service indicated that an Israeli C-130 military cargo plane flew above the area of the ship several times shortly before the alleged strikes.",Military,0.7987736463546753
+64,Hamas,"Hamas expressed its support for the ship, accusing Israel of “piracy” and “state terrorism.”",Political,0.9115808010101318
+66,Freedom Flotilla,"Freedom Flotilla, an activist vessel that set out to break Israel’s Gaza blockade and deliver aid to the besieged Gaza, has a “hole in the vessel” and “is sinking” after a drone attack, Yasemin Acar, a media officer with the group, has told CNN.",Humanitarian,0.7857982516288757
+66,SOS,"""Maltese government has not yet responded to the #SOS signal from this civilian humanitarian vessel.",Humanitarian,0.9921244978904724
+67,Gaza Freedom Flotilla Coalition,"A humanitarian aid ship operated by the Gaza Freedom Flotilla Coalition (FFC) has issued a distress signal after what the organization claims was a drone attack in international waters off the coast of Malta, early Friday morning.",Humanitarian,0.9762188196182252
+67,FFC,"A humanitarian aid ship operated by the Gaza Freedom Flotilla Coalition (FFC) has issued a distress signal after what the organization claims was a drone attack in international waters off the coast of Malta, early Friday morning.",Humanitarian,0.9762188196182252
+67,Malta,"(Video via Handout/ Gaza Freedom Flotilla Coalition)
+While the coalition initially claimed that Malta had not responded to the SOS, MaltaToday, citing government sources, reported that Transport Malta had deployed a tugboat and the Armed Forces of Malta (AFM) had dispatched a patrol boat to assist with the emergency.",Military,0.8093087077140808
+67,the Armed Forces of Malta (AFM,"(Video via Handout/ Gaza Freedom Flotilla Coalition)
+While the coalition initially claimed that Malta had not responded to the SOS, MaltaToday, citing government sources, reported that Transport Malta had deployed a tugboat and the Armed Forces of Malta (AFM) had dispatched a patrol boat to assist with the emergency.",Military,0.8093087077140808
+67,Israel,"In a separate exclusive statement to Türkiye Today, Acar added, ""The ship was bombed twice by drones, likely by Israel or its allied states, while in international waters.",Military,0.7691906094551086
+67,The Freedom Flotilla Coalition,The Freedom Flotilla Coalition describes itself as a network of 12 international pro-Palestinian organizations aiming to challenge the Israeli blockade of Gaza and deliver humanitarian aid via non-violent direct action.,Humanitarian,0.8887340426445007
+67,IHH Humanitarian Relief Foundation,"In May 2010, six international NGOs (IHH Humanitarian Relief Foundation, Free Gaza Movement, European Campaign to End the Siege on Gaza, Ship to Gaza (Greece), Ship to Gaza (Sweden), and the International Committee to Lift the Siege on Gaza)",Humanitarian,0.9463786482810974
+67,Free Gaza Movement,"In May 2010, six international NGOs (IHH Humanitarian Relief Foundation, Free Gaza Movement, European Campaign to End the Siege on Gaza, Ship to Gaza (Greece), Ship to Gaza (Sweden), and the International Committee to Lift the Siege on Gaza)",Humanitarian,0.9463786482810974
+67,the International Committee to Lift the Siege,"In May 2010, six international NGOs (IHH Humanitarian Relief Foundation, Free Gaza Movement, European Campaign to End the Siege on Gaza, Ship to Gaza (Greece), Ship to Gaza (Sweden), and the International Committee to Lift the Siege on Gaza)",Humanitarian,0.9463786482810974
+67,Flotilla,"In addition to humanitarian aid, the Flotilla was also carrying 750 aid workers and supporters.",Humanitarian,0.9541309475898744
+67,the Gaza Freedom Flotilla,"On May 31, 2010, the Gaza Freedom Flotilla comprising of the Mavi Marmara, Sfendoni, Challenger I, Eleftheri Mesogios, Gazza I and Defne Y vessels, departed with the aim of delivering humanitarian aid to Gaza but were confronted with an raid and intervention by Israeli military forces.",Humanitarian,0.9524264335632324
+67,"Challenger I, Eleftheri Mesogios","On May 31, 2010, the Gaza Freedom Flotilla comprising of the Mavi Marmara, Sfendoni, Challenger I, Eleftheri Mesogios, Gazza I and Defne Y vessels, departed with the aim of delivering humanitarian aid to Gaza but were confronted with an raid and intervention by Israeli military forces.",Humanitarian,0.9524264335632324
+67,Gaza,"On May 31, 2010, the Gaza Freedom Flotilla comprising of the Mavi Marmara, Sfendoni, Challenger I, Eleftheri Mesogios, Gazza I and Defne Y vessels, departed with the aim of delivering humanitarian aid to Gaza but were confronted with an raid and intervention by Israeli military forces.",Humanitarian,0.9524264335632324
+68,Freedom Flotilla',A so-called 'Freedom Flotilla' of ships headed for Gaza on a humanitarian mission has been stopped in its tracks after one of their ships was attacked by drones.,Humanitarian,0.9733471870422364
+68,Gaza,A so-called 'Freedom Flotilla' of ships headed for Gaza on a humanitarian mission has been stopped in its tracks after one of their ships was attacked by drones.,Humanitarian,0.9733471870422364
+68,Gaza,"The N-G-O behind the flotilla has pointed the finger at Israel, whose two-month-long blockade of Gaza has seen the enclave pushed to the brink.",Political,0.9439940452575684
+68,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, an N-G-O sending a number of ships filled with food and medicine to the besieged territory of Gaza, uploaded footage of a fire on one of its vessels, the 'Conscience', and holes blown through the hull of the ship.",Neutral,0.801240086555481
+68,Huwaida Arraf,"While it is not yet clear who is behind the attack, Huwaida Arraf, an organiser for the Freedom Flotilla has pointed the finger at Israel.",Political,0.891966700553894
+68,the Freedom Flotilla,"While it is not yet clear who is behind the attack, Huwaida Arraf, an organiser for the Freedom Flotilla has pointed the finger at Israel.",Political,0.891966700553894
+68,the Freedom Flotilla,"But for those activists attempting to disobey the Israeli blockade and provide vital aid to Palestinians, this attack on the Freedom Flotilla has been a setback.",Political,0.764482319355011
+68,Surya McEwan,S-B-S spoke to Australian activist Surya McEwan who was due to join the Gaza aid ship just hours after it was struck by drones.,Humanitarian,0.9448122382164
+68,Gaza,S-B-S spoke to Australian activist Surya McEwan who was due to join the Gaza aid ship just hours after it was struck by drones.,Humanitarian,0.9448122382164
+69,Conscience,"TEHRAN - On May 2, 2025, the Conscience, a vessel belonging to the Freedom Flotilla Coalition (FFC) carrying humanitarian aid and activists to Gaza, was attacked by armed drones in international waters near Malta.",Humanitarian,0.9083037972450256
+69,the Freedom Flotilla Coalition,"TEHRAN - On May 2, 2025, the Conscience, a vessel belonging to the Freedom Flotilla Coalition (FFC) carrying humanitarian aid and activists to Gaza, was attacked by armed drones in international waters near Malta.",Humanitarian,0.9083037972450256
+69,FFC,"TEHRAN - On May 2, 2025, the Conscience, a vessel belonging to the Freedom Flotilla Coalition (FFC) carrying humanitarian aid and activists to Gaza, was attacked by armed drones in international waters near Malta.",Humanitarian,0.9083037972450256
+69,The Gaza Strip,"The Gaza Strip is currently experiencing a severe humanitarian crisis as a result of this blockade, which limits the entry of necessities like food, medicine, and fuel.",Humanitarian,0.9118285179138184
+69,The Freedom Flotilla Coalition,The Freedom Flotilla Coalition has been organizing missions to Gaza for years to challenge the blockade and deliver humanitarian aid.,Humanitarian,0.9536619186401368
+69,Gaza,The Freedom Flotilla Coalition has been organizing missions to Gaza for years to challenge the blockade and deliver humanitarian aid.,Humanitarian,0.9536619186401368
+69,Francesca Albanese,"Francesca Albanese, the UN Special Rapporteur on the Palestinian territories, said she got a worried call from the Freedom Flotilla crew and urged countries to support them.",Political,0.7045173645019531
+69,Gaza,The ICJ finished a week of hearings on May 2 on whether Israel is required to guarantee the uninterrupted flow of important humanitarian assistance to Palestinians in Gaza and the West Bank.,Humanitarian,0.9759633541107178
+69,the West Bank,The ICJ finished a week of hearings on May 2 on whether Israel is required to guarantee the uninterrupted flow of important humanitarian assistance to Palestinians in Gaza and the West Bank.,Humanitarian,0.9759633541107178
+69,ICJ,These ICJ hearings also provide important legal and humanitarian context regarding the drone attack on the Gaza aid flotilla.,Humanitarian,0.9930645227432252
+70,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN 30 people were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time Friday (6 p.m. ET Thursday).",Humanitarian,0.8889752626419067
+70,FFC,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN 30 people were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time Friday (6 p.m. ET Thursday).",Humanitarian,0.8889752626419067
+70,The Armed Forces of Malta,The Armed Forces of Malta confirmed there had been a fire on a ship that has now been extinguished.,Military,0.8968920111656189
+70,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition describes itself on its website as an international network of pro-Palestinian activists working to end Israel’s blockade of Gaza and deliver humanitarian aid to the besieged enclave by taking direct, non-violent action.",Humanitarian,0.8058450222015381
+70,Israel,"Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Military,0.8324438333511353
+70,Israel,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+70,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Humanitarian,0.8445852994918823
+70,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+71,Thunberg,Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Hamas-run Gaza.,Political,0.8966320157051086
+71,the Freedom Flotilla's,Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Hamas-run Gaza.,Political,0.8966320157051086
+71,Hamas,Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Hamas-run Gaza.,Political,0.8966320157051086
+71,Gaza,Thunberg told Reuters she was in Malta and had been supposed to board the ship as part of the Freedom Flotilla's planned action in support of Hamas-run Gaza.,Political,0.8966320157051086
+71,Conscience,"The NGO published video footage, filmed in darkness, showing a fire on one of its ships, the Conscience.",Humanitarian,0.8665735125541687
+71,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" she said.",Humanitarian,0.9403745532035828
+71,Gaza,"""I was part of the group who was supposed to board that boat today to continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel's illegal siege on Gaza,"" she said.",Humanitarian,0.9403745532035828
+72,Malta,"Activists from Malta were reportedly expected to join the mission, and the ship was intended to deliver humanitarian aid to Gaza.",Humanitarian,0.9824935793876648
+72,Gaza,"Activists from Malta were reportedly expected to join the mission, and the ship was intended to deliver humanitarian aid to Gaza.",Humanitarian,0.9824935793876648
+73,Conscience,"Medea Benjamin reports on the attack on Conscience, a ship in the Freedom Flotilla Coalition, which has been challenging Israel’s maritime blockade of Gaza since 2008.",Political,0.9228470325469972
+73,the Freedom Flotilla Coalition,"Medea Benjamin reports on the attack on Conscience, a ship in the Freedom Flotilla Coalition, which has been challenging Israel’s maritime blockade of Gaza since 2008.",Political,0.9228470325469972
+73,Gaza,"Medea Benjamin reports on the attack on Conscience, a ship in the Freedom Flotilla Coalition, which has been challenging Israel’s maritime blockade of Gaza since 2008.",Political,0.9228470325469972
+73,Conscience,"A tug vessel sprays water to extinguish a fire aboard The Conscience, a ship from the Gaza Freedom Flotilla, during a nighttime emergency on Friday.",Humanitarian,0.795189619064331
+73,the Gaza Freedom Flotilla,"A tug vessel sprays water to extinguish a fire aboard The Conscience, a ship from the Gaza Freedom Flotilla, during a nighttime emergency on Friday.",Humanitarian,0.795189619064331
+73,the Freedom Flotilla Coalition,"The Conscience is part of the Freedom Flotilla Coalition, a network of international activists that has been challenging Israel’s maritime blockade of Gaza since 2008.",Political,0.8069013357162476
+73,Gaza,"The Conscience is part of the Freedom Flotilla Coalition, a network of international activists that has been challenging Israel’s maritime blockade of Gaza since 2008.",Political,0.8069013357162476
+73,CNN,"According to CNN, flight-tracking data from ADS-B Exchange showed that an Israeli Air Force C-130 Hercules aircraft departed from Israel early Thursday afternoon and flew at low altitude over eastern Malta for an extended period.",Military,0.8037564158439636
+73,Israeli Air Force,"According to CNN, flight-tracking data from ADS-B Exchange showed that an Israeli Air Force C-130 Hercules aircraft departed from Israel early Thursday afternoon and flew at low altitude over eastern Malta for an extended period.",Military,0.8037564158439636
+73,Israel,"According to CNN, flight-tracking data from ADS-B Exchange showed that an Israeli Air Force C-130 Hercules aircraft departed from Israel early Thursday afternoon and flew at low altitude over eastern Malta for an extended period.",Military,0.8037564158439636
+73,The Gaza Freedom Flotilla,The Gaza Freedom Flotilla was attacked by drones in international waters before it could deliver humanitarian aid to Gaza.,Humanitarian,0.9788790941238404
+73,Conscience,"In videos circulating after the recent strike, Behesti is seen walking through the damaged interior of the Conscience, his voice resolute as he condemns what he believes was another Israeli act of aggression against civilians on a humanitarian mission.",Humanitarian,0.9681715369224548
+73,Conscience,The Conscience was carrying no weapons.,Humanitarian,0.9873738288879396
+74,Gaza,"Live updates: Follow the latest on Israel-Gaza
+All the people on board a Gaza aid flotilla are safe after the vessel was hit by drones in international waters off Malta in the early hours of Friday.",Humanitarian,0.8525731563568115
+74,Gaza,The humanitarian operation was organised by a coalition of 12 rights groups who aim to deliver aid to Gaza.,Humanitarian,0.9608006477355956
+74,Gaza,The flotilla's press officer told CNN that 30 people were on board the ship carrying aid to Gaza.,Humanitarian,0.8292360901832581
+75,Gaza,"Israel blamed for attack on Gaza-bound aid ship
+
+Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.
+
+by Neta Bar  Published on 05-02-2025 11:13 Last modified: 05-02-2025 11:16
+
+Israel blamed for attack on Gaza-bound aid ship
+Reuters/Government of Malta
+A tug vessel puts out a fire on the Gaza Freedom Flotilla vessel Conscience outside Maltese territorial waters on May 2, 2025 | Photo:",Humanitarian,0.8948788046836853
+75,Freedom Flotilla,"Israel blamed for attack on Gaza-bound aid ship
+
+Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.
+
+by Neta Bar  Published on 05-02-2025 11:13 Last modified: 05-02-2025 11:16
+
+Israel blamed for attack on Gaza-bound aid ship
+Reuters/Government of Malta
+A tug vessel puts out a fire on the Gaza Freedom Flotilla vessel Conscience outside Maltese territorial waters on May 2, 2025 | Photo:",Humanitarian,0.8948788046836853
+75,Gaza,"Israel blamed for attack on Gaza-bound aid ship
+
+Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.
+
+by Neta Bar  Published on 05-02-2025 11:13 Last modified: 05-02-2025 11:16
+
+Israel blamed for attack on Gaza-bound aid ship
+Reuters/Government of Malta
+A tug vessel puts out a fire on the Gaza Freedom Flotilla vessel Conscience outside Maltese territorial waters on May 2, 2025 | Photo:",Humanitarian,0.8948788046836853
+75,Gaza,"Israel blamed for attack on Gaza-bound aid ship
+
+Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.
+
+by Neta Bar  Published on 05-02-2025 11:13 Last modified: 05-02-2025 11:16
+
+Israel blamed for attack on Gaza-bound aid ship
+Reuters/Government of Malta
+A tug vessel puts out a fire on the Gaza Freedom Flotilla vessel Conscience outside Maltese territorial waters on May 2, 2025 | Photo:",Humanitarian,0.8948788046836853
+75,"Reuters/Government of Malta
+
+Gaza Freedom Flotilla","Reuters/Government of Malta
+
+Gaza Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.",Humanitarian,0.9525554776191713
+75,"Reuters/Government of Malta
+
+Gaza Freedom Flotilla","Reuters/Government of Malta
+
+Gaza Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.",Political,0.8437544107437134
+75,Gaza,"Reuters/Government of Malta
+
+Gaza Freedom Flotilla activists claimed Friday that Israel attacked one of their vessels carrying humanitarian aid to Gaza near the coast of Malta in international waters.",Humanitarian,0.9525554776191713
+76,Conscience,"In the early hours of May 2, 2025, the humanitarian aid ship the Conscience, operated by the Freedom Flotilla Coalition, was struck by drones in international waters near Malta.",Humanitarian,0.9853389263153076
+76,the Freedom Flotilla Coalition,"In the early hours of May 2, 2025, the humanitarian aid ship the Conscience, operated by the Freedom Flotilla Coalition, was struck by drones in international waters near Malta.",Humanitarian,0.9853389263153076
+76,Tunisia,"The attack caused significant damage, ignited a fire, and disabled the ship, which was traveling from Tunisia to Gaza to deliver essential supplies and protest Israel's siege.",Political,0.7900549173355103
+76,Gaza,"The attack caused significant damage, ignited a fire, and disabled the ship, which was traveling from Tunisia to Gaza to deliver essential supplies and protest Israel's siege.",Political,0.7900549173355103
+76,Palau,"The group shared a statement on social media:
+The vessel, registered under the Palau flag, was en route to deliver food and medical supplies and bring 30 global peace activists including climate activist Greta Thunberg to Gaza.",Humanitarian,0.9317739009857178
+76,Malta,"Prime Minister Robert Abela said Malta is willing to facilitate repairs once the cargo is verified as solely humanitarian, stressing national security concerns.",Security,0.8791003227233887
+76,Malta,"Prime Minister Robert Abela said Malta is willing to facilitate repairs once the cargo is verified as solely humanitarian, stressing national security concerns.",Humanitarian,0.8733319640159607
+76,Gaza,"“It was a big story, more than 600 humanitarian activists, politicians, and doctors from 40 different nations had put together this fleet to deliver things like baby incubators and medicine to the people of Gaza,” one of the survivors recalls.",Humanitarian,0.943317711353302
+77,Freedom Flotilla,"[Freedom Flotilla]
+A humanitarian aid ship bound for Gaza with 16 people on board left crippled by a drone attack was rescued by Maltese forces, local media reported today.",Humanitarian,0.9933275580406188
+77,Gaza,"[Freedom Flotilla]
+A humanitarian aid ship bound for Gaza with 16 people on board left crippled by a drone attack was rescued by Maltese forces, local media reported today.",Humanitarian,0.9933275580406188
+78,Gaza,"[Last Update: Friday, 02 May 2025 7:56 PM]
+
+The ship bound for Gaza carrying humanitarian aid and activists was bombed by drones in international waters off Malta early on May 2, 2025.",Humanitarian,0.9331717491149902
+78,Freedom Flotilla,An international human rights organization has called for an independent probe into an Israeli drone attack on a Freedom Flotilla vessel carrying humanitarian aid to the besieged Gaza Strip.,Humanitarian,0.9355669617652892
+78,Freedom Flotilla,An Israeli drone strike hit a Freedom Flotilla vessel carrying humanitarian aid to Gaza.,Humanitarian,0.9906984567642212
+78,Gaza,The human rights monitor stressed that the failure to take action will only encourage further attacks on humanitarian missions and worsen the catastrophe unfolding in Gaza.,Humanitarian,0.7692198157310486
+78,Gaza,The rights organization also demanded “guarantees for safe sea passage for humanitarian aid bound for Gaza.”,Humanitarian,0.9021222591400146
+78,the Gaza Freedom Flotilla,"A vessel belonging to the Gaza Freedom Flotilla came under attack by an Israeli drone strike in international waters near Malta, while it was attempting to bring humanitarian aid to the besieged Palestinian territory.",Humanitarian,0.9589070081710817
+78,the Freedom Flotilla,"The drone strike took place as the Freedom Flotilla is campaigning to end the Tel Aviv regime’s siege of Gaza, which is exacerbating the humanitarian situation and causing severe shortages of basic necessities, including food and medical supplies.",Humanitarian,0.9109354615211488
+78,the Freedom Flotilla,"The drone strike took place as the Freedom Flotilla is campaigning to end the Tel Aviv regime’s siege of Gaza, which is exacerbating the humanitarian situation and causing severe shortages of basic necessities, including food and medical supplies.",Political,0.905491590499878
+78,Gaza,"The drone strike took place as the Freedom Flotilla is campaigning to end the Tel Aviv regime’s siege of Gaza, which is exacerbating the humanitarian situation and causing severe shortages of basic necessities, including food and medical supplies.",Humanitarian,0.9109354615211488
+78,Gaza,"The drone strike took place as the Freedom Flotilla is campaigning to end the Tel Aviv regime’s siege of Gaza, which is exacerbating the humanitarian situation and causing severe shortages of basic necessities, including food and medical supplies.",Political,0.905491590499878
+78,Katz,"Katz further said the regime would not allow any humanitarian aid to enter Gaza, confirming that food is being used as a tool of pressure against Hamas.",Political,0.9736231565475464
+78,Gaza,"Katz further said the regime would not allow any humanitarian aid to enter Gaza, confirming that food is being used as a tool of pressure against Hamas.",Political,0.9736231565475464
+79,Freedom Flotilla,"Unconscionable attack on Freedom Flotilla aid ship Conscience
+
+Tuesday, 06 May 2025 10:05 AM [Last Update: Tuesday, 06 May 2025 10:05 AM]
+
+Gaza Freedom Flotilla aid ship ‘Conscience’ bombed By Israel on May 5 2025 (Via Code Pink)",Political,0.8973800539970398
+79,"Conscience
+
+","Unconscionable attack on Freedom Flotilla aid ship Conscience
+
+Tuesday, 06 May 2025 10:05 AM [Last Update: Tuesday, 06 May 2025 10:05 AM]
+
+Gaza Freedom Flotilla aid ship ‘Conscience’ bombed By Israel on May 5 2025 (Via Code Pink)",Political,0.8973800539970398
+79,Freedom Flotilla,"Unconscionable attack on Freedom Flotilla aid ship Conscience
+
+Tuesday, 06 May 2025 10:05 AM [Last Update: Tuesday, 06 May 2025 10:05 AM]
+
+Gaza Freedom Flotilla aid ship ‘Conscience’ bombed By Israel on May 5 2025 (Via Code Pink)",Political,0.8973800539970398
+79,Israel,"Unconscionable attack on Freedom Flotilla aid ship Conscience
+
+Tuesday, 06 May 2025 10:05 AM [Last Update: Tuesday, 06 May 2025 10:05 AM]
+
+Gaza Freedom Flotilla aid ship ‘Conscience’ bombed By Israel on May 5 2025 (Via Code Pink)",Political,0.8973800539970398
+79,Israel,"Unconscionable attack on Freedom Flotilla aid ship Conscience
+
+Tuesday, 06 May 2025 10:05 AM [Last Update: Tuesday, 06 May 2025 10:05 AM]
+
+Gaza Freedom Flotilla aid ship ‘Conscience’ bombed By Israel on May 5 2025 (Via Code Pink)",Military,0.756146252155304
+79,Robert Abella,"However, Malta's Prime Minister Robert Abella said that unless his government is allowed to inspect the vessel, it will not allow it in Maltese waters and ports.",Political,0.9547488689422609
+79,Robert Abella,"""
+
+— Robert Abella, Prime Minister of Malta
+
+Historically, Malta has had a stand that upholds the right of the Palestinians, I mean, to live in that land and also to have their own state.",Political,0.8154438138008118
+80,the Gaza Strip,"A vessel carrying humanitarian aid to the Gaza Strip was reportedly targeted by a drone strike off the coast of Malta, leading the vessel to issue an SOS signal, as stated by the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.959729015827179
+80,SOS,"A vessel carrying humanitarian aid to the Gaza Strip was reportedly targeted by a drone strike off the coast of Malta, leading the vessel to issue an SOS signal, as stated by the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.959729015827179
+80,the Freedom Flotilla Coalition,"A vessel carrying humanitarian aid to the Gaza Strip was reportedly targeted by a drone strike off the coast of Malta, leading the vessel to issue an SOS signal, as stated by the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.959729015827179
+80,FFC,"A vessel carrying humanitarian aid to the Gaza Strip was reportedly targeted by a drone strike off the coast of Malta, leading the vessel to issue an SOS signal, as stated by the Freedom Flotilla Coalition (FFC) in a social media post on Friday.",Humanitarian,0.959729015827179
+81,Laura,"“It’s honestly a little frightening,” said Laura, a Belgian student and one of 40 pro-Palestinian activists who were set to board the aid ship Al Awda (“The Conscience”) headed for Gaza, just outside Maltese waters.",Political,0.8084959387779236
+81,Al Awda,"“It’s honestly a little frightening,” said Laura, a Belgian student and one of 40 pro-Palestinian activists who were set to board the aid ship Al Awda (“The Conscience”) headed for Gaza, just outside Maltese waters.",Political,0.8084959387779236
+81,Gaza,"“It’s honestly a little frightening,” said Laura, a Belgian student and one of 40 pro-Palestinian activists who were set to board the aid ship Al Awda (“The Conscience”) headed for Gaza, just outside Maltese waters.",Political,0.8084959387779236
+81,Gaza,"The ship, targeted over the weekend some 2,000 kilometers (1,240 miles) from Israeli shores, had departed Tunisia last week and was headed for Malta as part of the “Freedom Flotilla,” a campaign by activists aiming to “break the siege on Gaza.”",Political,0.7767949104309082
+81,Greta Thunberg,For the passengers on board and the 40 activists on the ground in Malta — among them Swedish climate activist Greta Thunberg — there’s no doubt who was behind the strike.,Political,0.9700523018836976
+81,Laura,"“It’s scary because we ran full risk assessments before this humanitarian sail and we trusted what Defense Minister [Israel Katz] said — that he'd allow us in just to evacuate some Gazans to Europe,” Laura said.",Humanitarian,0.9899110794067384
+81,Malta,"Footage of strike on ship off of Malta
+On Sunday, the activists who were blocked from boarding gathered in Valletta’s main square with dozens of locals to protest Malta’s refusal to let the ship dock or even allow it to pump out water from its lower deck.",Political,0.743683934211731
+81,Malta,"Footage of strike on ship off of Malta
+On Sunday, the activists who were blocked from boarding gathered in Valletta’s main square with dozens of locals to protest Malta’s refusal to let the ship dock or even allow it to pump out water from its lower deck.",Political,0.743683934211731
+81,Thunberg,"In an interview with the Times of Malta, Thunberg explained the reason for organizing the mission: “Right now two million people are being delivered to starved by Israel in Gaza and it is our responsibility as human beings to do everything in our power to try to demand an end to that.”
+
+For now, unless a humanitarian or sanitary crisis unfolds aboard, the ship appears stuck indefinitely in international waters.",Political,0.7941858768463135
+81,Thunberg,"In an interview with the Times of Malta, Thunberg explained the reason for organizing the mission: “Right now two million people are being delivered to starved by Israel in Gaza and it is our responsibility as human beings to do everything in our power to try to demand an end to that.”
+
+For now, unless a humanitarian or sanitary crisis unfolds aboard, the ship appears stuck indefinitely in international waters.",Humanitarian,0.7011827826499939
+81,Gaza,"In an interview with the Times of Malta, Thunberg explained the reason for organizing the mission: “Right now two million people are being delivered to starved by Israel in Gaza and it is our responsibility as human beings to do everything in our power to try to demand an end to that.”
+
+For now, unless a humanitarian or sanitary crisis unfolds aboard, the ship appears stuck indefinitely in international waters.",Political,0.7941858768463135
+81,Malta,Malta’s government issued a statement saying it would assess the situation and form a committee to investigate who was behind the drone strike.,Political,0.7876460552215576
+82,SOS,A pro-Palestinian activist aid ship sent an SOS distress signal after it caught fire in international waters.,Political,0.9139369130134584
+82,Gaza,"Instagram
+
+A ship bound for Gaza carrying humanitarian aid with activists onboard was bombed by drones in international waters off Malta on Friday, its organisers said, alleging that Israel was to blame.",Humanitarian,0.8647540211677551
+82,Surya McEwen,"Surya McEwen was preparing to join the Freedom Flotilla Coalition ship, saying it was attacked just hours before he was due to board.",Political,0.84264075756073
+82,the Freedom Flotilla Coalition,"Surya McEwen was preparing to join the Freedom Flotilla Coalition ship, saying it was attacked just hours before he was due to board.",Political,0.84264075756073
+82,Gaza,"""They have attacked a vessel that carries peaceful activists who are on their way to break a total blockade — no water, no food, no humanitarian [aid] has reached the Palestinians in Gaza right now,"" she said.",Political,0.7511096000671387
+83,Gaza,A ship carrying humanitarian aid for Gaza has been bombed by drones while it was in international waters.,Humanitarian,0.9930565357208252
+83,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, the NGO responsible for the ship, has pointed the finger at Israel.",Political,0.9227038025856018
+83,Israel,"The Freedom Flotilla Coalition, the NGO responsible for the ship, has pointed the finger at Israel.",Political,0.9227038025856018
+83,UN,"Yesterday, UN aid coordinator Tom Fletcher called on Israel to lift the blockade on Gaza, which has been in force for almost two months.",Humanitarian,0.897201418876648
+84,Gaza,"A humanitarian ship en route to Gaza was struck by drones and engulfed in flames early Friday while sailing in international waters off Malta, according to the Freedom Flotilla Coalition, the group organizing the mission.",Humanitarian,0.9661880135536194
+84,the Freedom Flotilla Coalition,"A humanitarian ship en route to Gaza was struck by drones and engulfed in flames early Friday while sailing in international waters off Malta, according to the Freedom Flotilla Coalition, the group organizing the mission.",Humanitarian,0.9661880135536194
+84,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, which is campaigning to end Israel’s 17-year blockade of Gaza, said the ship was part of a covert mission involving volunteers from over 21 countries, including prominent human rights figures.",Political,0.7520430684089661
+84,Gaza,"The Freedom Flotilla Coalition, which is campaigning to end Israel’s 17-year blockade of Gaza, said the ship was part of a covert mission involving volunteers from over 21 countries, including prominent human rights figures.",Political,0.7520430684089661
+85,Conscience,"The vessel Conscience, organized by the Freedom Flotilla Coalition, caught fire after reportedly being bombed by drones early Friday while carrying humanitarian aid to Gaza.",Humanitarian,0.9389559626579284
+85,the Freedom Flotilla Coalition,"The vessel Conscience, organized by the Freedom Flotilla Coalition, caught fire after reportedly being bombed by drones early Friday while carrying humanitarian aid to Gaza.",Humanitarian,0.9389559626579284
+85,Al-Kheetan,"""
+Al-Kheetan also pointed to the deepening humanitarian crisis in Gaza, saying restrictions on movement and the flow of goods have severely affected the population for more than 17 years.",Humanitarian,0.8761565089225769
+85,Gaza,"""
+Al-Kheetan also pointed to the deepening humanitarian crisis in Gaza, saying restrictions on movement and the flow of goods have severely affected the population for more than 17 years.",Humanitarian,0.8761565089225769
+86,Gaza,"A ship with humanitarian aid and activists for Gaza was bombed by drones while in international waters off Malta early on Friday, its organizers said, and the Maltese government said after a rescue operation that everyone on board was safe.",Humanitarian,0.93194580078125
+86,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, an international non-governmental group, published video footage showing a fire on one of its ships, named the Conscience, and pointed the finger at Israel.",Political,0.9066459536552428
+86,Israel,The coalition is campaigning to end Israel’s blockade of Gaza.,Political,0.9501426815986632
+86,Gaza,The coalition is campaigning to end Israel’s blockade of Gaza.,Political,0.9501426815986632
+86,Malta,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” it said in a fuller statement on its website.",Humanitarian,0.8081897497177124
+87,Malta,"The Coalition emphasized that under international maritime law, Malta is obligated to respond and ensure the safety of a civilian ship in distress within its proximity.",Humanitarian,0.7939429879188538
+87,Israel,In response to Hamas’s continued refusal to release 59 Israeli hostages—24 of whom are believed to still be alive—Israel has halted all aid truck entries into Gaza as of March 2.,Political,0.8930277824401855
+87,Gaza,In response to Hamas’s continued refusal to release 59 Israeli hostages—24 of whom are believed to still be alive—Israel has halted all aid truck entries into Gaza as of March 2.,Political,0.8930277824401855
+87,Gaza,Humanitarian experts estimate that Gaza requires a minimum of 600 aid trucks daily to meet basic needs.,Humanitarian,0.971669852733612
+88,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition, an international non-governmental group, published video footage showing a fire on one of its ships, named the Conscience, has accused Israel of being responsible.",Political,0.8792023658752441
+88,Conscience,"The Freedom Flotilla Coalition, an international non-governmental group, published video footage showing a fire on one of its ships, named the Conscience, has accused Israel of being responsible.",Political,0.8792023658752441
+89,the Malta Vessel Traffic Services,"Following the distress call, the Malta Vessel Traffic Services body dispatched a tugboat and offered support.",Humanitarian,0.919379472732544
+89,Israel,"The activists were on what they called a “mission to challenge Israel’s illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid”.",Political,0.8520596623420715
+89,Gaza,"The activists were on what they called a “mission to challenge Israel’s illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid”.",Political,0.8520596623420715
+89,Gaza,"The activists were on what they called a “mission to challenge Israel’s illegal and deadly siege of Gaza, and to deliver desperately needed, life-saving aid”.",Humanitarian,0.7647080421447754
+89,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Military,0.8555483818054199
+89,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Political,0.7889900803565979
+89,Gaza,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Political,0.7889900803565979
+89,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Military,0.8555483818054199
+89,Israel,"Israel has since March 2 blocked all aid deliveries to Gaza, and resumed intense military operations in the territory in mid-March, with a two-month ceasefire in the Israel-Hamas war in tatters.",Political,0.7889900803565979
+89,The Red Cross,The Red Cross warned Friday that the humanitarian response in Gaza was on the “verge of total collapse” after two months of Israel blocking aid to the territory.,Humanitarian,0.9337054491043092
+89,Gaza,The Red Cross warned Friday that the humanitarian response in Gaza was on the “verge of total collapse” after two months of Israel blocking aid to the territory.,Humanitarian,0.9337054491043092
+89,Hamas,"Both Hamas and the Palestine Liberation Organization, which Palestinian president Mahmud Abbas leads, issued statements condemning the incident.",Political,0.9012093544006348
+89,the Palestine Liberation Organization,"Both Hamas and the Palestine Liberation Organization, which Palestinian president Mahmud Abbas leads, issued statements condemning the incident.",Political,0.9012093544006348
+89,Mahmud Abbas,"Both Hamas and the Palestine Liberation Organization, which Palestinian president Mahmud Abbas leads, issued statements condemning the incident.",Political,0.9012093544006348
+90,Gaza,"A ship bound for Gaza carrying humanitarian aid, bombed by drones in international waters off Malta early on Friday, was secured in the early hours of the morning after a nearby tug assisted with firefighting operations.",Humanitarian,0.986655294895172
+90,Francesca Albanese,"Francesca Albanese, the UN rapporteur for Palestine, said she was shocked that political leaders were not denouncing the attack on the civilian ship delivering aid to a starving population.",Political,0.8505057096481323
+90,the UN Security Council,"""EU leaders should condemn this act, demand an urgent investigation & urgent access to the ship, stranded in int'l waters,"" she said on X.
+Palestinian Hamas group also accused Israel of being behind the attack, urging the UN Security Council ""to intervene to stop the violations"" by Israel.",Security,0.923947274684906
+90,Gaza,"Israel has cut off Gaza from all imports, including food and medicine, since early March, leading to a humanitarian crisis and famine-like conditions.",Humanitarian,0.8622928857803345
+92,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+92,FFC,"The Freedom Flotilla Coalition (FFC), which is campaigning to end Israel’s blockade of Gaza, told CNN activists were aboard its ship carrying humanitarian aid when the alleged attack happened just after midnight local time (6 p.m. ET Thursday).",Humanitarian,0.8698204159736633
+92,The Armed Forces of Malta,The Armed Forces of Malta confirmed there was a fire on a ship that was later extinguished.,Military,0.9668056964874268
+92,Malta,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+92,FFC,"“Volunteers from over 21 countries traveled to Malta to board the mission to Gaza, including prominent figures,” FFC said in a statement.",Humanitarian,0.8738669753074646
+92,the Maritime Squadron of the Armed Forces of Malta,"When asked by CNN for comment, the Maritime Squadron of the Armed Forces of Malta said the vessel and the crew are secure, and that the ship remains outside territorial waters and is being monitored by authorities.",Security,0.955386519432068
+92,Thunberg,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+92,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+92,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+92,Gaza,"Speaking to Reuters from Malta, Thunberg said she was part of the group that was supposed to board the boat and “continue the voyage towards Gaza, which is one of many attempts to open up a humanitarian corridor and to do our part to keep trying to break Israel’s illegal siege on Gaza,” adding that “for two months now, not a single bottle of water has entered Gaza, and it’s a systematic starvation of 2 million people.”",Humanitarian,0.8640250563621521
+92,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition describes itself on its website as an international network of pro-Palestinian activists working to end Israel’s blockade of Gaza and deliver humanitarian aid to the besieged enclave by taking direct, non-violent action.",Humanitarian,0.8058450222015381
+92,Israel,"Gaza has been under Israeli military siege since the October 7, 2023, Hamas deadly attacks on Israel.",Military,0.8324438333511353
+92,Israel,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+92,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Humanitarian,0.8445852994918823
+92,Gaza,"Israel imposed a full humanitarian blockade of Gaza on March 2, cutting off food, medical supplies, and other aid to the more than 2 million Palestinians who live in the territory.",Political,0.7297266721725464
+92,the Occupied Palestinian Territories,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+92,Gaza,"Francesca Albanese, the United Nations Special Rapporteur for the Occupied Palestinian Territories, said on X that she “received a distressed call from the people of the Freedom Flotilla that is carrying essential food and medicine to the starving Gaza population.”",Humanitarian,0.7203889489173889
+92,Israel,"The group pointed the finger of blame at Israel, without providing evidence.",Political,0.8781840205192566
+92,An Israeli Air Force C-130 Hercules,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+92,Israel,"An Israeli Air Force C-130 Hercules was picked up leaving Israel early Thursday afternoon and flying to Malta, according to flight-tracking website ADS-B Exchange.",Military,0.7442436218261719
+92,Trevor Ball,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+92,US Army,"Trevor Ball, a former US Army senior explosive ordnance disposal team member, told CNN that the photos are consistent with two smaller blast munitions being used.",Military,0.7316429615020752
+93,Gaza,"A vessel carrying humanitarian aid to Gaza caught fire off the coast of Malta on Friday after what authorities described as a drone attack, reigniting concerns about the safety of sea-based aid missions amid the deepening crisis in the besieged Palestinian territory.",Humanitarian,0.9671642184257508
+93,the Freedom Flotilla Coalition,"As per AP report, the Freedom Flotilla Coalition directly accused Israel of targeting the ship, though it provided no evidence to support the claim.",Political,0.7012759447097778
+93,Israel,"Israel has said the move is aimed at increasing pressure on Hamas to release hostages taken during its October 7 assault on southern Israel, which killed about 1,200 people and saw 251 abducted.",Political,0.8237177133560181
+93,Israel,"Israel has said the move is aimed at increasing pressure on Hamas to release hostages taken during its October 7 assault on southern Israel, which killed about 1,200 people and saw 251 abducted.",Political,0.8237177133560181
+93,Israel,Israel’s retaliatory campaign has devastated Gaza.,Military,0.8849532008171082
+93,UN,The UN and aid organisations warn that Gaza’s humanitarian system is on the brink of collapse.,Humanitarian,0.8514968156814575
+93,Gaza,The UN and aid organisations warn that Gaza’s humanitarian system is on the brink of collapse.,Humanitarian,0.8514968156814575
+93,The International Committee of the Red Cross,"The International Committee of the Red Cross warned on Friday that many of its Gaza programmes, including community kitchens that serve as the sole meal source for thousands, are at risk of shutting down without immediate aid access.",Humanitarian,0.8099720478057861
+93,Gaza,"The International Committee of the Red Cross warned on Friday that many of its Gaza programmes, including community kitchens that serve as the sole meal source for thousands, are at risk of shutting down without immediate aid access.",Humanitarian,0.8099720478057861
+93,Gaza,"“Without immediate action, Gaza will descend further into chaos that humanitarian efforts will not be able to mitigate.”",Humanitarian,0.9286266565322876
+94,Gaza,"A Gaza-bound ship carrying humanitarian aid caught fire early Friday, prompting an emergency SOS after what its organisers claim was a drone strike.",Humanitarian,0.9683502912521362
+94,Conscience,The Conscience had been in Malta for about 12 hours before the fire.,Humanitarian,0.7592917680740356
+94,Gaza,"The goal was to deliver aid directly to Gaza, where over two million people face severe shortages after Israel imposed a full blockade in March, following the October 7 Hamas attacks.",Humanitarian,0.8926746845245361
+94,The Freedom Flotilla Coalition,"The Freedom Flotilla Coalition says on its website that it is an international group of pro-Palestinian activists aiming to end Israel’s blockade of Gaza through direct, non-violent action.",Political,0.7342360019683838
+94,Gaza,"The Freedom Flotilla Coalition says on its website that it is an international group of pro-Palestinian activists aiming to end Israel’s blockade of Gaza through direct, non-violent action.",Political,0.7342360019683838
