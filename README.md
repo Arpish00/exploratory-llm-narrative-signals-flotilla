@@ -1,8 +1,6 @@
 
 # Sentence-Level Entity–Label Associations from News Texts (LLM Exploration)
 
-This repository contains data and visualizations from an exploratory study that uses large language models (LLMs) to associate named entities in news sentences with broader narrative categories. The goal is to test how reliably small open-source models can detect recurring patterns of emphasis or interpretation in political or humanitarian news reporting using simple, clearly defined categories.
-
 > ⚠️ **Important**: This is not part of any formal study. It is an informal model exploration intended to demonstrate how general-purpose LLMs behave when provided with clearly bounded label definitions. No normative conclusions, ground-truth claims, or domain assertions are made.
 
 ---
